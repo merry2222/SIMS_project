@@ -1,66 +1,59 @@
 //const fetch = require('node-fetch');
 const fs = require('fs');
 
-const url_1 = 'https://upgraded.se/wp-json/wp/v2/konsultuppdrag?per_page=50';
-const url_2 = 'https://upgraded.se/wp-json/wp/v2/ort/';
-const url_role = 'https://upgraded.se/wp-json/wp/v2/roll/';
+// Takes embedded url instead so all data is fatched at the same time
+const embedded_url = 'https://upgraded.se/wp-json/wp/v2/konsultuppdrag?_embed&per_page=20';
 
 
 async function fetch_assignment() {
     try {
-        const response = await fetch(url_1);
+        // Same fetch
+        const response = await fetch(embedded_url);
         const data = await response.json();
-        const ids = data.map(item => item.id);
-        const url_assigment = ids.map(id => `https://upgraded.se/wp-json/wp/v2/konsultuppdrag/${id}`);
 
+        // Immediatly maps link and description to 2 const
+        const link_to_assignment = data.map(item => item.link);
+        const description = data.map(item => [item.yoast_head_json.og_description]);
+
+        // Then maps an array of all embedded "ort" names and "roll" names
+        // Same map function
+        const place_names = data.map(item => {
+            // If item even exists (some items did not contain role names and that made the program crash)
+            if (item._embedded["wp:term"][0]) {
+                // Then return this item
+                return item._embedded["wp:term"][0]
+                    // Filter out the "ort" names
+                    .filter(term => term.taxonomy === "ort")
+                    // And map all results to an array
+                    .map(term => term.name);
+            }
+            else return [];
+        });
+
+        // See prev for comments
+        const role_names = data.map(item => {
+            if (item._embedded["wp:term"][1]) {
+                return item._embedded["wp:term"][1]
+                    .filter(term => term.taxonomy === "roll")
+                    .map(term => term.name);
+            }
+            else return [];
+        });
+
+        // Only loops through once and adds it to results
         const results = [];
-
-
-        for (const url of url_assigment) {
-            const assignment_response = await fetch(url);
-            const assignment_data = await assignment_response.json();
-            const link_to_assignment = assignment_data.link;
-            const role = assignment_data.roll;
-            const place = assignment_data.ort;
-            const description = assignment_data.yoast_head_json.og_description;
-
-            let place_names = [];
-            let role_names = [];
-
-            if (Array.isArray(place)) {
-                for (const placeId of place) {
-                    const place_response = await fetch(`${url_2}${placeId}`);
-                    const place_data = await place_response.json();
-                    place_names.push(place_data.name);
-                }
-            } else {
-                const place_response = await fetch(`${url_2}${place}`);
-                const place_data = await place_response.json();
-                place_names.push(place_data.name);
-            }
-
-            //console.log(`Role: ${role}, Places: ${place_names.join(', ')}`);
-
-            if (Array.isArray(role)) {
-                for (const roleId of role) {
-                    const role_response = await fetch(`${url_role}${roleId}`);
-                    const role_data = await role_response.json();
-                    role_names.push(role_data.name);
-                }
-            } else {
-                const role_response = await fetch(`${url_role}${roles}`);
-                const role_data = await role_response.json();
-                role_names.push(role_data.name);
-            }
-
+        for (let i = 0; i < data.length; i++) {
+            // Combines the 4 arrays to one array
             results.push({
-                link_to_assignment,
-                roles: role_names,
-                places: place_names,
-                description
+                link_to_assignment: link_to_assignment[i],
+                roles: role_names[i],
+                places: place_names[i],
+                description: description[i]
             });
             //console.log(`Roles: ${role_names.join(', ')}, Places: ${place_names.join(', ')}`);
         }
+
+        // Writes to fetchedData.json
         fs.writeFile('fetchedData.json', JSON.stringify(results, null, 2), (err) => {
             if (err) throw err;
             console.log('Data written to file');
