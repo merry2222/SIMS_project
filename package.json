@@ -1,0 +1,20 @@
+{
+  "name": "simsproject",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs": "^0.0.1-security",
+    "natural": "^8.0.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^23.4.0",
+    "string-similarity": "^4.0.4"
+  },
+  "description": ""
+}
