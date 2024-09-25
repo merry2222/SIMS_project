@@ -2,7 +2,7 @@
 const fs = require('fs');
 
 // Takes embedded url instead so all data is fatched at the same time
-const embedded_url = 'https://upgraded.se/wp-json/wp/v2/konsultuppdrag?_embed&per_page=20';
+const embedded_url = 'https://upgraded.se/wp-json/wp/v2/konsultuppdrag?_embed&per_page=100';
 
 
 async function fetch_assignment() {
@@ -50,7 +50,6 @@ async function fetch_assignment() {
                 places: place_names[i],
                 description: description[i]
             });
-            //console.log(`Roles: ${role_names.join(', ')}, Places: ${place_names.join(', ')}`);
         }
 
         // Writes to fetchedData.json
