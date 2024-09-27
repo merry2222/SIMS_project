@@ -40,7 +40,7 @@ function write_to_file(filename, data_array) {
     })
 }
 
-async function fetch_assignment(params, find) {
+async function fetch_assignment(params, find, filelocation) {
     // Assembles URL
     const url = assemble_url(params, find);
 
@@ -88,10 +88,12 @@ async function fetch_assignment(params, find) {
         });
     }
 
-    write_to_file('fetchedData.json', results);
+    write_to_file(filelocation, results);
 }
 
-const testSearch = 'Python';
-const testArgs = ['_embed', 'per_page=100'];
 
-fetch_assignment(testArgs, testSearch);
+const testArgs = ['_embed', 'per_page=100'];
+const testSearch = 'Python';
+const testFile = 'fetchedData.json';
+
+fetch_assignment(testArgs, testSearch, testFile);
