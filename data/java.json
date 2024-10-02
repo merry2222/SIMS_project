@@ -1,0 +1,212 @@
+[
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72775-junior-cloud-engineer/",
+    "roles": [
+      "Cloud Engineer"
+    ],
+    "places": [
+      "Lund"
+    ],
+    "description": [
+      "Assignment Description: The Car Cloud Platform organization within Software Digital develops and maintains cloud services globally to contribute to the overall connected experience for our customers. We build, provide and operate a highly secure run-time ecosystem for functions and applications serving our connected cars, and their users. We aim to optimize functional and organic growth by using standard cloud technologies with high level of synergies and re-use. With our car cloud solution, we provide cloud infrastructure, platform core &amp; services to support software development lifecycle (DevOps) by providing tools for fast feedback &amp; built-in quality. What you´ll do You can work in an ever-evolving agile way of working where you will be part of an empowered product team that strives for continuous learning and improvement. You and your team are, among many other things, responsible for the DevOps of the ingress gateways globally to the car cloud platform clusters. You will collaborate with your Product Owner to ensure the right functionality is being developed and estimate the size and complexity of the work to be able to plan upcoming sprints. You will determine and maintain the technical design in our area within the given architectural guidelines. Tech we use daily: SW Languages: Java (Spring), GolangFrameworks: Docker, Kubernetes, Spring, Istio Infrastructure: AWS Databases: Cassandra or similar (NoSQL), MySQL, Oracle, MongoDB Middleware: Kafka, JMS, IBM MQ, MQTT Tools: CI/CD Pipelines, GIT or similar Test automation: Unit test frameworks, Component test frameworks Monitoring: Splunk, Grafana, Prometheus Architecture: Micro Service Architecture Development methodology principles: gitOps, Scrum, DevOps Automation: Python Do you fit the profile? We believe you have a BSc degree or higher in computer science or equivalent. We believe that you are a fast learner who will thrive in an environment with experienced developers and cloud engineers. We believe that you have a strong interest in exploring various aspects of software development. Software development skills are important, but particular experience with all tech that you will use in this position is not expected. The ability and interest to learn is. For you to fully enjoy this opportunity, we believe that you have a genuine interest of working and developing in a product area. You embrace teamwork, collaboration and are eager to learn and develop new competences. If both parties are satisfied, the contract will transition into a permanent employment position, ensuring a continued and stable working relationship."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72582-embedded-software-engineers/",
+    "roles": [
+      "Engineer"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Assignment Description Our client  in the automotive industry is currently seeking experienced Senior and Mid-level Embedded Software Engineers with strong skills in C, C++, Python, and Java, as well as a solid understanding of system architecture. Main Responsibilities: As part of an agile team, your key responsibilities will include: Optimizing performance and CPU usage Identifying and resolving memory leaks Visualizing boot times for software processes Qualifications: Proficient in C, C++, or Python for developing complex embedded software products Experience with Embedded OS, Linux, or QNX Familiarity with test automation tools (e.g., Pytest) Previous experience working in a Continuous Integration (CI) environment Expertise in embedded software optimization and resource utilization Familiarity with automotive communication protocols such as FlexRay and LIN (preferred) University degree in Computer Science, Electrical Engineering, Electronics, or a similar field Fluency in both spoken and written English Additional Qualifications: Knowledge of Android testing frameworks Experience with Android Automotive Platform A valid driver’s license (B-level) is ideal but not mandatory Desired Attributes: Self-driven with a proactive approach to problem-solving Capable of leading investigations and making informed conclusions"
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72560-c-software-developer-android-automotive/",
+    "roles": [
+      "Developer"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Assignment Description Our client in the automotive industry is looking for an experienced C++ Software Developer with expertise in Android Automotive. Are you excited about working on next-generation infotainment systems, developed in close collaboration with Google, based on Android Automotive? If so, they have an exciting opportunity for you. They are searching for a motivated, inquisitive, and detail-oriented team player to join their team, focusing on Navigation and Positioning. Main Responsibilities: Work as part of a small, cross-functional team that emphasizes quality and continuous improvement. Collaborate with team members to develop and improve the car’s navigation features, ensuring an excellent user experience. Engage in full-stack development using Java, Kotlin, C++, and Android development tools. Utilize the latest tools and technologies, working closely with partners and other teams to deliver cutting-edge software. Write automated test cases that run in a Continuous Integration (CI) environment to verify the developed features. Participate in real-world testing and troubleshooting in actual vehicles, providing hands-on insight into product performance. Required Qualifications: A Master’s or Bachelor’s degree in Electronics, Software Engineering, or a related field. At least 5 years of relevant experience in software development using languages such as C++, Python, Java, etc. Proven experience in Android platform development and Continuous Integration. Familiarity with Agile methodologies. Strong proficiency in English, both written and verbal. A valid driver’s license (B-level). Additional Qualifications: Android Automotive platform development. Automotive Infotainment systems. Working in the Navigation or Positioning domain. Desired Attributes: A naturally curious problem solver who thrives in a team-oriented environment. Ability to collaborate effectively with others to achieve shared goals. Flexibility in managing multiple tasks simultaneously. A self-driven individual who is quality-focused and excited by technical challenges."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72499-systemutvecklare-servicenow-5/",
+    "roles": [
+      "Utvecklare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu en Systemutvecklare ServiceNow som ska stärka kundens agila utvecklingsteam. Rollen är en del av kundens pågående 5G-projekt, och innebär att stödja deras utvecklingsbehov inom detta område. Plexus är kundens centrala IT-plattform, som stöder deras uppdrag och leveransprocesser. Plattformen är ett kärnsystem för verksamheten, och kunden är ledande i sin användning av dess moduler. Utveckling av nya moduler och vidareutveckling av plattformen sker i snabb takt. Huvudsakliga ansvarsområden: Systemutveckling och konfiguration av ServiceNow, kundens centrala digitaliseringsplattform Bidra till utvecklingen av effektiva lösningar i ServiceNow-plattformen Arbeta inom ett utvecklingsteam som ansvarar för att förvalta och utveckla verktyg anpassade efter verksamhetens behov Delta i en agil systemutvecklingsprocess med nära samarbete med kravställare Vidareutveckling av funktionalitet för ServiceNow, inklusive: Utveckling av användarvänliga serviceportaler och servicekataloger Utveckling av workflows och integrerade flöden Skapande av externa integrationer med stöd av integrationsplattformen Användning av moduler som ITBM, ITOM, ITAM och ITSM Obligatoriska kvalifikationer: Erfarenhet av att arbeta med och utveckla i HTML, CSS och JavaScript Minst 3 års erfarenhet som systemutvecklare inom ServiceNow-plattformen Goda kunskaper i systemutveckling Erfarenhet av att arbeta inom stordrift av IT-miljöer Utmärkt förmåga att uttrycka sig på svenska, både i tal och skrift Meriterande kvalifikationer: Certifieringar inom ServiceNow Erfarenhet av arbete inom politiskt styrda organisationer Minst 3 års erfarenhet av att arbeta i agila team Goda kunskaper inom infrastruktur Erfarenhet av att hantera större och komplexa systemimplementeringar Personliga egenskaper: God kommunikationsförmåga och förmåga att omvandla behov till lösningar Strukturerad och ordningsam God samarbetsförmåga och självgående Positiv och lösningsorienterad i sitt bemötande"
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72427-java-utvecklare-4/",
+    "roles": [
+      "Javautvecklare",
+      "Utvecklare"
+    ],
+    "places": [
+      "Uppsala"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu en Java utvecklare. Vår kund har precis börjat arbeta i ett nytt system där de behöver en tillfällig resurs (tre månader med möjlighet till förlängning) för att hantera arbetstoppar. Det är ett stort system utvecklat i Java kring ett processorienterat ramverk. Därför söker vi dig som är utvecklare och är bra på att sätta dig in i befintliga kodbaser och har erfarenhet av många olika system. Vi tror det är en fördel om du har erfarenhet av React men det väger förstås inte lika tungt som Java. Det är viktigt att du är självgående och snabblärd. Skallkrav: Du ska ha kompetens motsvarande nivå 4 av Java Du ska ha erfarenhet av att arbeta i Azure Devops Bör krav: Du bör ha tidigare erfarenheter av Java utveckling i olika miljöer och versioner Du bör ha erfarenhet av utveckling i befintliga legacysystem Du bör ha erfarenheter av integrationsarbete i Java miljö Du bör ha kompetens inom React &nbsp; Du kommer att arbeta på plats hos vår kund i Uppsala cirka 75% av vecka, resterande 25% finns det möjlighet till distansarbete."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72415-fullstackutvecklare-7/",
+    "roles": [
+      "Fullstack-utvecklare"
+    ],
+    "places": [
+      "Kalmar",
+      "Stockholm"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu en fullstackutvecklare. Du kommer att förstärka ett av utvecklingsteamen hos vår kund som fullstackutvecklare och förvalta och utveckla deras tjänster. Du ska kunna röra dig mellan backend och frontend tekniker och navigerar testdriven utveckling och testautomation. Ta fram och utveckla lösningsförslag Dokumentera lösningar, gränssnitt mm Testa funktioner och tjänster Implementera och exekvera automatiska tester Skallkrav: Spetskompetens Du ska ha minst (5) års erfarenhet av arbete som senior utvecklare inom minst (2) av följande tekniker: Minst (3) år av arbetslivserfarenheten ska vara förvärvad någon gång under den senaste femårsperioden. Java Jakarta EE Jax-RS JPA/Hibernate Sonarqube PostgreSQL Kubernetes/Openshift Vue.js Breddkompetens Du ska ha minst (1) års erfarenhet av arbete som utvecklare inom minst (2) av följande tekniker som inte uppgetts som spetskompetens: Arbetslivserfarenheten ska vara förvärvad någon gång under den senaste femårsperioden. Java Jakarta EE Jax-RS JPA/Hibernate Sonarqube PostgreSQL Kubernetes/Openshift Vue.js Skallkrav fortsättning Du ska ha minst (3) års erfarenhet av att arbeta med testdriven utveckling och testautomatisering som en naturlig del av sitt arbete som systemutvecklare. Minst (2) år av arbetslivserfarenheten ska vara förvärvad någon gång under den senaste femårsperioden Du bör ha minst (1) års erfarenhet av arbete med REST-baserade tjänster. Arbetslivserfarenheten ska vara förvärvad någon gång under den senaste treårsperioden. Du ska ha minst (1) års erfarenhet av arbete i team som arbetar enligt agila arbetssätt. Du ska ha relevant universitets- eller högskoleutbildning eller arbetslivserfarenhet som bedöms likvärdig. Börkrav Du bör ha erfarenhet av containerbaserade tekniker som Docker, Kubernetes och OpenShift. Du bör ha erfarenhet av utveckling i Linux-miljö. Du bör ha arbetat med versionshantering exempelvis GIT. Du bör ha arbetat med enhetstestning och/eller TDD. Du bör ha erfarenhet av utvecklingsverktyget IntelliJ Du bör ha erfarenhet av att ha arbetat med testverktyget ReadyAPI Du bör ha erfarenhet av att ha arbetat med testverktyget Cypress Du bör ha erfarenhet av att ha arbetat med kontinuerlig testning av pipelines/CI/CD &nbsp; Du kommer att arbeta i vår kunds lokaler i Stockholm eller Kalmar cirka 2 dagar i veckan. Du måste även kunna närvara i Kalmar på PI-planning 11-13 november."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72379-sw-developer-and-tester/",
+    "roles": [
+      "Developer",
+      "Tester"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Assignment Description Our client in the automotive industry is currently seeking a Software Developer and Tester within Voice User Interfaces &amp; Audio. If you want to be part of a team working on the next generation infotainment system based on Android Automotive, in close collaboration with Google, this opportunity is for you. You will play a key role in enabling the company’s vision of &#8221;Freedom to move in a Personal, Sustainable, and Safe way.&#8221; Main Responsibilities: In this role, you will work as part of a small cross-functional team, focused on delivering high-quality work and driving continuous improvements. Your responsibilities will include: Testing the Google Assistant within the infotainment system. Enhancing and optimizing the automated test framework for voice interactions. Testing the audio chain and ensuring readiness for Continuous Integration (CI). Conducting tests and troubleshooting in real vehicles, offering valuable insights into the product&#8217;s real-world performance. Required Qualifications: A Master’s (M.Sc.) or Bachelor’s (B.Sc.) degree in Electronics, Software Engineering, or a related field. A minimum of 3 years of experience in software development using languages such as Python, C++, or Java. Experience in Android platform development. Familiarity with Continuous Integration (CI) processes and Agile methodologies. Proficiency in English, both written and spoken. A valid driver’s license (B-level). Additional Qualifications: Experience developing for Android Automotive. Prior experience with Automotive Infotainment systems. Familiarity with Audio Input or Voice Assistant technology. Desired Attributes: Motivated and curious, with a strong focus on quality. A team player with the ability to work effectively in collaboration with others. Strong problem-solving skills and the ability to handle multiple tasks simultaneously. Driven and quality-conscious, with a passion for tackling technical challenges."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72351-systemutvecklare-servicenow-4/",
+    "roles": [
+      "Utvecklare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu en systemutvecklare med expertis inom ServiceNow (SN). I denna roll kommer du att ansvara för systemutveckling och konfiguration av kundens centrala plattform för digitalisering (KSD). Denna plattform är avgörande för både kundleveranser och internt arbete. Kunden arbetar i ett högt tempo med kontinuerlig utveckling av plattformen och implementering av nya moduler. För att möta behoven inom deras 5G-projekt behöver de nu förstärka sitt agila utvecklingsteam. Som systemutvecklare bidrar du till att utveckla effektiva lösningar med SN-plattformen som grund. Du blir en viktig del av ett team som både förvaltar och utvecklar plattformen för att möta verksamhetens krav. Huvudsakliga ansvarsområden: I rollen kommer du att: Arbeta i ett agilt utvecklingsteam där samarbete med kravställare fungerar väl. Vidareutveckla funktionalitet i ServiceNow. Utveckla användarvänliga serviceportaler och servicekataloger. Skapa arbetsflöden (workflows) och integrerade flöden. Utveckla externa integrationer med hjälp av kundens integrationsplattform. Plattformen inkluderar moduler såsom: ITBM (IT Business Management) ITOM (IT Operations Management) ITAM (IT Asset Management) ITSM (IT Service Management) Kundens IT-tjänsteplattform, kallad Plexus, stödjer hela KSD uppdrag och leveransprocess. Den fungerar som ett kärnsystem för verksamheten. Obligatoriska kvalifikationer: För att lyckas i rollen behöver du ha: Erfarenhet av att arbeta med eller utveckla i HTML, CSS och JavaScript. Minst 3 års erfarenhet som systemutvecklare inom ServiceNow. Mycket goda kunskaper inom systemutveckling. Erfarenhet av att arbeta i storskaliga IT-miljöer. God förmåga att uttrycka dig väl i svenska, både i tal och skrift. Meriterande kvalifikationer: Det är även meriterande om du har: Relevanta certifieringar inom ServiceNow. Erfarenhet av att arbeta i politiskt styrda organisationer. Minst 3 års erfarenhet av att arbeta i agila team. Önskvärda tilläggskvalifikationer: Det är ett extra plus om du har: Hög kunskap om IT-infrastruktur. Erfarenhet av att genomföra större, komplexa systeminföranden. Personliga egenskaper: Vi söker dig som: Har god kommunikativ förmåga och kan omvandla krav till lösningar inom ramen för din roll. Är strukturerad och ordningsam. Är självgående och har god samarbetsförmåga. Bemöter kollegor och kunder på ett professionellt och trevligt sätt."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72300-systemforvaltare-liferay-alfresco-java/",
+    "roles": [
+      "Systemförvaltare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Uppdragsbeskrivning Vi söker en erfaren systemförvaltare på uppdrag av vår kund. Rollen innefattar både systemutveckling och teknisk projektledning. Du kommer att arbeta i kundens lokaler i Göteborgsområdet men vissa arbetsuppgifter kan utföras på distans. Huvudsakliga ansvarsområden: Förvaltning och vidareutveckling av kundens Liferay-plattform. Nära samarbete med frontendutvecklingsteamet för att säkerställa att Liferay-lösningen uppfyller de ställda kraven. Utföra uppgraderingar och vidareutveckling av Liferay-plattformen i enlighet med förvaltningsplaner och kundens kravspecifikationer. Obligatoriska kvalifikationer: Gedigen erfarenhet av Liferay och Java-baserade tjänster. Förmåga att omvandla användar- och kundkrav till tekniska lösningar. Erfarenhet av agila arbetsmetoder inom systemutvecklingsprojekt. Minst 5 års erfarenhet av följande teknologier och ramverk: Portlets (JSR286) Spring, Spring Portlet MVC JPA, Servlet, Tomcat PostgreSQL, Mule, Camel REST, JMS SVN, Jenkins, Nexus Meriterande kvalifikationer: Erfarenhet av att samarbeta med Liferay som partner. Kunskaper om Elasticsearch. Dokumenterad erfarenhet av arbete inom offentlig sektor, särskilt inom politiskt styrda organisationer."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72289-systemforvaltare-utveckling-optimizely/",
+    "roles": [
+      "Systemförvaltare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu en systemförvaltare med gedigen erfarenhet av utveckling och administration av Optimizely. Arbetet utförs främst på plats hos kunden i Göteborgsområdet men det finns möjlighet till visst distansarbete. Uppdraget &#8221;Optimizely uppgradering och utveckling&#8221; omfattar bland annat uppgradering av Optimizely och utveckling av tjänster baserat på krav från förvaltningen och verksamheten. Huvudsakliga ansvarsområden: Medverkan i pågående förvaltning och utveckling av intranätet och externwebben som är byggda med Optimizely. Deltagande i dokumenthanteringsprojekt som inkluderar integrering av dokumentpublicering i intranätet. Uppdrag kan även härröra från ärendeberedning inom funktionsområdet Webbtjänster, vilka kan omfatta förändringar i den förvaltade miljön eller uppgifter finansierade av enheten Information och Arkivering. Hög kompetens kring kringliggande system och tjänster som integreras med Optimizely, exempelvis Lucene/SolR (sökmotor), Fotoweb (bildhantering), Sharepoint, Yammer och Apelon (metadatatjänst). Konsulternas kompetenskrav ligger på nivå 4, vilket innebär en hög nivå av kunskap inom Optimizelys senaste versioner och dess utveckling. Obligatoriska kvalifikationer: Djup erfarenhet av Optimizely samt relaterade tjänster som Ifeed, Sharepoint, Apelon, och Lucene/SolR. Stark förmåga att omsätta användar- och kundkrav till tekniska lösningar. Proaktivt ansvarstagande i roller inom systemutveckling och projektledning. Deltagande i KSD releasehantering, vilket kräver överenskommelser kring arbetstider och leveranser. Erfarenhet av att arbeta med agila utvecklingsmetoder i utvecklingsuppdrag. Systemutveckling inom Optimizely CMS. Minst tre års erfarenhet av uppdrag inom offentlig verksamhet. Meriterande kvalifikationer: Dokumenterad erfarenhet av integrationer med andra system i kundens webbplattform, exempelvis Lucene/SolR, Liferay och CA Siteminder (säkerhetslösningar). Kompetens inom systemarkitektur, integrationsmetoder, och databasarkitektur. Erfarenhet av utveckling i både .NET och Java. Djup förståelse för Optimizelys administrativa funktioner."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72283-systemforvaltare-liferay/",
+    "roles": [
+      "Systemförvaltare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu en systemförvaltare med erfarenhet av Liferay. Kunden har utvecklat webbapplikationer i Liferay för sina olika förvaltningar, en plattform som bygger på öppen källkod. De är nu i behov av vidareutveckling och förvaltning av Liferay-lösningar, samt andra relaterade uppdrag som använder samma teknik. Arbetet sker enligt agila principer, och scrum används som arbetsmetod. Huvudsakliga ansvarsområden: Ansvara för förvaltning och utveckling inom Liferay-plattformen. Samarbete med frontendutvecklare för att säkerställa att de tekniska kraven uppfylls. Teknisk projektledning med ansvar för uppgradering och vidareutveckling av Liferay. Utveckling av nya tjänster baserat på krav från kundens förvaltning och verksamhet. Obligatoriska kvalifikationer: Gedigen erfarenhet av att arbeta med Liferay och tjänster utvecklade i Java. God förmåga att omvandla användar- och kundkrav till tekniska lösningar. Möjlighet att utföra arbetet på plats hos kunden i Mölndal, med viss flexibilitet för distansarbete. Erfarenhet av agila utvecklingsmetoder. Minst 5 års erfarenhet av tekniker som Portlets (JSR286), Spring, Spring Portlet MVC, JPA, Servlet, Tomcat, PostgreSQL, Mule, Camel, REST, JMS, SVN, Jenkins, Nexus, med flera. Meriterande kvalifikationer: Det är önskvärt att leverantören är Liferay-partner. Erfarenhet av arbete inom offentlig sektor."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72226-senior-infrastructure-engineer-2/",
+    "roles": [
+      "Backend",
+      "Engineer",
+      "Infrastruktur"
+    ],
+    "places": [
+      "Hybrid",
+      "Stockholm"
+    ],
+    "description": [
+      "We are looking for a Senior Backend Engineer that will join the team in our Platform mission that enables our engineers to effectively utilize cloud infrastructure by providing a platform for infrastructure composition. Our declarative infrastructure is built on top of Kubernetes and we work closely with Google to make sure our platform scales with the growing number of managed resources at us. What you&#8217;ll do: As a team, we build a platform that enables infrastructure as code at us, with the entire engineering organization as our users. The tech stack you’ll work on includes Kubernetes operators (typically in Golang); supporting backend services (in Java); utilities and scripts (in Python and Bash); analytics data pipelines (in Python and SQL); and a lot of declaratively managed infrastructure of our own (in YAML). Collaborate closely with our sister platform squads and become a valued member of an autonomous, cross-functional team. We want you to bring your whole self to work and strive to foster an environment that supports your individual growth. Who you are: A valued team player in an autonomous, cross-functional team that inspires others experienced in designing, analyzing, optimizing code, and troubleshooting large-scale distributed systems. Experienced with Kubernetes, GKE, and Google Cloud Platform. Knowledgeable in how to write distributed, high-performance services and experienced in deploying and operating services on Linux. Passionate about infrastructure as code Can use scripting languages where needed to glue pieces together Have experience with Java and/or Go Equipped with a systematic problem-solving approach coupled with effective communication skills and drive. Excited about working on a team where you constantly learn, experiment, and iterate quickly. Extra: *Engineers with a solid engineering background (MSc. in engineering of related) *Engineers with experience extending k8s, writing their own or maintaining k8s operators and CRDs *Experience within platform organisations is a plus *Experience with GCP is a plus"
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/72022-systemforvaltning-utveckling-optimizely-enhet-information-arkivering/",
+    "roles": [
+      "Systemförvaltare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu dig med lång och dokumenterad erfarenhet inom utveckling och administration av Optimizely. Arbetet sker delvis på plats i kundens lokaler i Göteborg, men vissa delar kan utföras på distans och involverar uppgradering och utveckling av Optimizely. Detta innefattar uppgraderingar och vidareutveckling av tjänster baserade på krav som formulerats av förvaltningen och andra uppdrag, med fokus på att möta behoven från olika delar av verksamheten. Huvudsakliga ansvarsområden: Delta i pågående förvaltning och uppdrag som rör intranätet och externwebben byggda i Optimizely. Samarbeta med dokumenthanteringsprojekt som ska integrera dokumentpublicering i intranätet. Hantera uppdrag som kommer från ärendeberedning under ansvarsområdet Webbtjänster, som kan inkludera förändringar i den förvaltade miljön eller förändringar finansierade av enheten Information och Arkivering. Arbeta med relaterade system och tjänster kring Optimizely-miljön, som Lucene/SolR, Fotoweb (bildhantering), Sharepoint, Yammer och metadatatjänsten Apelon. Bidra med expertkunskap inom utveckling av Optimizely i dess senaste versioner. Obligatoriska kvalifikationer: Gedigen erfarenhet av Optimizely och relaterade IT-tjänster som Ifeed, Sharepoint, Apelon, Lucene/SolR med mera. Förmåga att omvandla användar- och kundkrav till tekniska lösningar. Proaktivt ansvarstagande inom systemutveckling och projektledning. Deltagande i KSD releasehantering, vilket kräver överenskommelser om arbetstider och andra praktiska arrangemang. Erfarenhet av att arbeta i utvecklingsuppdrag som följer agila metoder. Minst 3 års erfarenhet av systemutveckling inom Optimizely CMS i offentlig verksamhet. Meriterande kvalifikationer: Erfarenhet av integrationer med andra delar av plattformen, inklusive Lucene/SolR (sökmotor), Liferay, och säkerhetslösningar från CA Siteminder. Kompetens inom systemarkitektur, integrationsmetoder, och databasarkitektur. Erfarenhet av både .NET och Java. Djupgående kunskap om Optimizelys administrativa funktioner."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/71461-full-stack-developer-javascript-2/",
+    "roles": [
+      "Developer"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Assignment Description Our client in the automotive industry is currently seeking a Full Stack Developer (JavaScript) with DevOps experience for Continuous Integration (CI) applications. Our client believes that curiosity and a deep commitment to understanding people are key to future success. They work together to create technologies and innovations for safe, sustainable, and convenient mobility. The digital future is being developed with a human-centric mindset, using Agile/DevOps practices. This role is part of the Continuous Integration Infrastructure team, which develops CI tools for the pipeline, one of the largest software automation chains in Sweden, connecting complete vehicle systems to software applications. As a developer and DevOps engineer, you will be responsible for moving requirements from review to production while working with code reviews and architecture planning to ensure high quality and quick changes. Main Responsibilities: Work as a SW developer in an agile, cross-functional team focused on implementing the CI-pipeline. Perform software design, development, testing, and end-user documentation. Build user experiences using frontend technologies and support end users. Collaborate with top DevOps experts on a team skilled in JavaScript, Node.js, React, Python, Bash, and software architecture. Participate in all stages of development, from requirements gathering to production code deployment. Contribute to DevOps practices, building innovative products and services that deliver customer value. Collaborate with the team to manage and develop the CI pipeline, combining and developing various tools. Take ownership of Visualization tools for the CI pipeline, infrastructure management, and software baselines. Required Qualifications: Proficiency in both backend and frontend development, with a strong background in JavaScript (minimum 5 years working experience with ES5 or later). Strong experience with CI/CD systems and software development. Experience writing and appreciating the value of tests. Expertise in the following technologies: JavaScript Node.js React Next.js Python MongoDB Linux Gerrit Docker Kubernetes Shell scripting (Bash) Cloud infrastructure (preferably Azure) Additional Qualifications: Experience with RabbitMQ, Redis, Git, GitOps tools (e.g., Flux CD or Argo CD), Kubernetes, and Infrastructure as Code (IaC) tools such as Ansible, Terraform, or Pulumi. At least 4+ years of documented experience working within IT as a developer. Previous experience working with requirements and direct client contact. Experience with data analytics tools. A solid understanding of the Agile development process. Familiarity with DevOps methodologies and CI/CD development. Desired Attributes: Curiosity and open-mindedness toward new technology and programming languages. Continual striving to develop skillsets by networking internally and externally. Willingness to develop a T-shaped profile by expanding knowledge in multiple specializations. Understanding of Agile team principles and ceremonies. Interest in the user journey and understanding user needs for the product team&#8217;s outcomes. Ability to network with stakeholders when necessary for technical elicitation. Outgoing, easy to communicate with, and patient. Self-motivated and proactive in initiating contact with new people."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/70993-senior-full-stack-utvecklare-region-skane-avrop-946/",
+    "roles": [
+      "Fullstack-utvecklare"
+    ],
+    "places": [
+      "Lund"
+    ],
+    "description": [
+      "Uppdragsbeskrivning Region Skåne befinner sig på en spännande resa mot att bli en datadriven region. Avgörande för att utveckla vår hälso- och sjukvård inför framtiden är att stärka vår förmåga att tillvarata värdet av vår data. Genom att öka tillgängligheten till högkvalitativa data och utveckla verksamhetens kompetens att använda denna möjliggörs nya arbetssätt och metoder inom planering, forskning, resursoptimering och innovation. Därför söker vi nu en driven full-stack utvecklare till vårt team av trevliga, samarbetsvilliga och kunniga kollegor som jobbar med utvecklingen av våra nya data- och API-plattformar. Vi söker dig som har en gedigen teknisk erfarenhet inom systemutveckling. Du har erfarenhet av såväl modern webbutveckling som backend och API-utveckling. Du är nyfiken på att hela tiden lära dig nytt, som du gärna vill tillämpa och dela med dig av. Du är pragmatisk och har förmågan att skapa goda relationer med andra människor. Du är strukturerad, självgående och kvalitetsmedveten. Som full-Stack utvecklare tillhör du ett utvecklingsteam som bygger plattformar på den allra senaste tekniken inom datahantering, API:er och AI. Du arbetar tillsammans med bland annat produktägare, arkitekter, data engineers, software engineers och testare. Arbetet innebär att: Arbeta med utveckling inom både frontend och backend Supporta, förvalta och felsöka våra lösningar Delta i planering och analys av funktioner Utveckla ci/cd pipelines Granska kod Bedriva testarbete och skriva enhetstester Ge råd och stöd i tekniska designval och arkitekturfrågor Du har: Gedigen erfarenhet av utveckling både inom frontend och backend God kunskap om TypeScript/Javascript, HTML5, CSS3, Tailwind, jQuery och Bootstrap God kunskap om .NET och C#, samt gärna fler programmeringsspråk Erfarenhet av moderna frontend-ramverk som t.ex. NextJS, Nuxt, SvelteKit God kunskap om Single Page Applications, Jamstack och static site generators God kunskap inom API design och utveckling God kunskap om SQL-databaser God kunskap om säkerhetsfrågor och rekommendationer från exempelvis OWASP Gedigen erfarenhet av att arbeta med Git Känsla för design och UX Du har förmågan att arbeta både självständigt och i grupp Du är van vid att ta ansvar för och äga leveransen av en eller flera funktion(er) Du är mån om att leverera kvalitativa lösningar Du har erfarenhet av att arbeta agilt Meriterande: Goda kunskaper inom tillgänglighet (WCAG) Goda kunskaper i Docker/Kubernetes Erfarenhet av att drifta lösningar on-prem och i public cloud (Docker/Kubernetes/Azure) Erfarenhet av Infrastructure as Code (t.ex. Bicep eller Terraform) Erfarenhet inom Prompt Engineering Goda kunskaper inom teknisk dokumentation &nbsp; Tillhör kategori: Systemutvecklare &nbsp; Startdatum och omfattning är öppet för diskussion. Möjlighet finns till förlängning av uppdraget. &nbsp;"
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/70046-senior-software-developer-java-and-elasticsearch/",
+    "roles": [
+      "Developer"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Assignment Description Our client in the automotive industry is currently seeking a Senior Software Developer with expertise in Java and Elasticsearch. Our client believes that curiosity and a genuine commitment to understanding people are key to future success. They are a team of people who care about others, working together to create new technologies and innovations for safe, sustainable, and convenient mobility. They are part of Car Software Development Solutions, a division within our client&#8217;s Software Digital department in Engineering. They develop, provide, and maintain an extensive suite of digital solutions designed to enable best-in-class vehicle software development. To achieve this, they work closely with their R&amp;D organization and other departments within the client’s organization. Their solutions cover Complete CI Tool Chains, High-Performance Computing, and other tools for Software Development and Engineering. The team is diverse and engaged, consisting of 50 members divided into 7 product teams. Main Responsibilities: In this role, you will: Develop and maintain a sophisticated metadata management platform to support Autonomous Drive development. Ensure smooth daily operations to help users and the business maximize the benefits of the big data collected from test and customer vehicles worldwide. Act as a Subject Matter Expert (SME) for the AD/ADAS (Autonomous Drive/Advanced Driver Assistance System) metadata domain, collaborating closely with the product owner, business stakeholders, and the architectural community. Contribute to the maintenance and development of coding standards and best practices within the team. Participate in planning, high-level design, evaluation and improvement of existing solutions, and implementation of new solutions. Support the optimization of data usage, integration of new data sources, and improvement of data processes and pipelines. Be empowered to solve issues and ensure users receive the services they need. Development and maintenance of the platform’s backend, frontend, and Elasticsearch configuration. Participating in testing, deployment, and operation of application services. Driving data pipeline architecture and information models in collaboration with team members and business stakeholders. Capturing business needs and translating them into solution designs. Contributing to the evolution of coding processes, standards, and ways of working to improve quality and delivery speed. Maintaining and, to some extent, developing the platform&#8217;s cloud infrastructure. Engaging with the stakeholder and user community to understand platform usage, requirements, and needs. Required Qualifications: To succeed in this position, you should have the following qualifications: Java: 5-6 years of experience. Python. Experience in building fast and scalable applications using Elasticsearch. Kubernetes: 3 years of experience. Knowledge of PostgreSQL, Spring Boot, Swagger, Groovy, and working with CI/CD tool chains. Application Security skills. Additional Qualifications: JavaScript. TypeScript. ReactJS. GraphQL. Application development using Azure cloud services. Linux. Desired Attributes: Ability to work in an Agile environment. Strong communication skills and a team player with a positive attitude."
+    ]
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/65100-servicenow-2/",
+    "roles": [
+      "ServiceNow"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": [
+      "Uppdragsbeskrivning För kunds räkning söker vi nu en systemutvecklare för att stödja deras dagliga arbete inom förvaltning och utveckling av ServiceNow-miljöer. Rollen innebär att säkerställa att produktionsmiljöerna fungerar effektivt genom att utveckla, dokumentera och förvalta tjänsteleveranser. Arbetsbeskrivning: Som systemutvecklare förväntas du: Utveckla och implementera lösningar i ServiceNow baserade på verksamhetens krav och behov. Utföra analyser och konsekvensbedömningar samt ta fram strategiska beslutsunderlag. Automatisera och testa funktioner samt delta i uppgraderingsarbete. Dokumentera utförda funktioner och arbeta med kontinuerliga releaser. Samverka med olika intressenter som kunder, förvaltningsledare, arkitekter och andra utvecklare. Hålla dig uppdaterad om nyheter och framtida utveckling inom ServiceNow. Krav: Erfarenhet från verksamheter med minst 10 000 användare. Minst 2 års erfarenhet av JavaScript-programmering. Erfarenhet av minst två integrationer i ServiceNow med varierande komplexitet. Erfarenhet av utveckling och anpassning inom ServiceNow-plattformen. Erfarenhet av att arbeta enligt configuration management (CMDB). Minst tre ServiceNow-certifieringar, inklusive ITIL, System Administrator och ITSM Implementation Specialist. Erfarenhet från offentlig sektor eller statliga myndigheter i Sverige under de senaste 10 åren. Utbildad i Discovery Fundamentals, ServiceNow Portal Advanced och Application Development Fundamental. Arbetet kan utföras både på distans och på plats beroende på projektets krav. Nedan finner du kravmatris för detta uppdrag. Vänligen ladda ner och fyll i denna samt bifoga tillsammans med CV i ansökan. Länk till kravmatris"
+    ]
+  }
+]
