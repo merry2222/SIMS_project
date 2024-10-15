@@ -92,7 +92,7 @@ async function fetch_assignment(params, find, filelocation) {
 }
 
 
-const testArgs = ['_embed', 'ort=154,26,656,25,593,106,98,151,24,120&per_page=100'];
+const testArgs = ['_embed', 'ort=154,26,656,25,593,106,98,151,24,120', 'per_page=100'];
 const testSearch = '';
 const testFile = 'fetchedData.json';
 
