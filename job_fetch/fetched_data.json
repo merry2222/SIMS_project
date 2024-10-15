@@ -1,0 +1,133 @@
+[
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
+    "roles": [
+      "Arkitekt"
+    ],
+    "places": [
+      "Distans",
+      "Uppsala"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en Arkitekt som kan hjälpa till med utveckling inom datalagring, datahantering och business intelligence. Fokus för uppdraget är att ta fram ett lösningsförslag inklusive arkitektur och lösningsmönster. Rollbeskrivning: Dela data och rapporter, internt och externt, i olika format på en data-/rapportportal. Möjliggöra användning av data från data warehouse, data lake och källsystem i data-/rapportportalen. Säkerhet och åtkomstkontroll. Insamling av data från externa källor. Skall-krav: Du ska ha erfarenhet av att designa en modern dataarkitektur inklusive business intelligence (BI). Du ska ha förmåga att dokumentera arkitektur i text och med arkitekturmodeller. Du ska ha erfarenhet av teknikerna beskrivna i uppdragsbeskrivningen/rollbeskrivningen. Bör-krav:       Du bör ha erfarenhet av att dokumentera arkitektur med Archimate. Du bör ha erfarenhet av för uppdraget relevanta tjänster i Microsoft Azure. Du bör ha erfarenhet av att arbeta med Sparx EA. Du bör ha erfarenhet av att ha arbetat med offentlig verksamhet. &nbsp; Du kommer att behöva arbeta på plats i vår kunds lokaler i Uppsala ca 20%, och arbete på distans ca 80% av tiden efter överenskommelse med vår kund."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+    "roles": [
+      "IT-arkitekt"
+    ],
+    "places": [
+      "Sundsvall"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en IT-Arkitekt inom webbutveckling som är självgående och drivande. Vi ser även att du har god erfarenhet och hög kompetens inom aktuella området. Rollbeskrivning: Utreda och ta fram lösningsmönster som stödjer vår kunds mål- och referensarkitektur. Dokumentera lösningsmönster. Samverka med andra IT-arkitekter och Systemutvecklare. Stötta vid val av lösningsmönster. Kvalifikationer: Du har minst 3 års erfarenhet av Javascript ramverk, såsom Angular, React eller Vue de senaste 5 åren. Du bör ha erfarenhet av att arbeta som IT-arkitekt senaste 8 åren. Du har kunskap i Java-ramverk som Springbook, med versionhantering i GIT-hub och byggprocess i Jenkins. Du har haft en ledande roll i team som avser IT-arkitektur eller systemutveckling. Du har arbetat med skalad Scrum eller motsvarande skalat agilt arbetssätt. Du har arbetat med systemutveckling och eller IT-arkitektur avseende mikrotjänster. Du kommer att arbeta på plats i vår kunds lokaler i Sundsvall, distansarbete kan medges i samråd med vår kund."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+    "roles": [
+      "Cloud Engineer",
+      "Data Engineer"
+    ],
+    "places": [
+      "Poland",
+      "Remote"
+    ],
+    "description": "Assignment Description On behalf of our client we are looking for a Cloud Data Engineer. Role Description: You will be responsible for developing and maintaining the data pipelines in our clients Snowflake based data warehouse. You will be responsible for loading and extracting data from source to target, so that your team members of bi developers can utilize the data to create Power BI reports based on it. Requirements: You have 1-3 years of experience working with Snowflake hands on, implementing SPs and UDFs. You have 10+ years of experience with Data Warehouse solutions prior to Snowflake. You are an expert in SQL. You are an expert in designing and developing ELT/ETL flows. You have good communication skills and you are organized. You are good at problem-solving and like to dig deeper into complicated matters. You are familiar with Snowflake. To be successful in this role you need to know how to check the metadata, get and read SQL and JS based object definition or where it is used. Fluency in Confluence. You have practical knowledge of git. You have advanced knowledge of Data Warehousing concepts and standard approaches. You have advanced knowledge of Data Integration concepts (streaming, batch). You have strong skills in translating business requirements to ETL solutions. You are familiar with DataStage is an avenges but not a must. You have knowledge about DS structures: sequences, jobs, etc. You have a large and extensive knowledge of how an ELT/ETL design and implementation should be designed to make it robust and scalable. &nbsp; You will be working from our clients office in Poland, either in Warsaw or Gdansk. With the possibility of remote work, after discussions with our client."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75315-senior-c-utvecklare/",
+    "roles": [
+      "Utvecklare"
+    ],
+    "places": [
+      "Hybrid",
+      "Lund"
+    ],
+    "description": "Uppdragsbeskrivning Vi söker en Senior C++ utvecklare på uppdrag av vår kund. Rollen innebär ett nära samarbete med teammedlemmar för att analysera projektkrav, designa och utveckla säker och effektiv kod samt underhålla den genom hela utvecklingscykeln. Du kommer att vara ansvarig för att identifiera och åtgärda prestandaflaskhalsar, felsöka och rätta till buggar samt säkerställa att kodbasen håller hög kvalitet. Dessutom kommer du att arbeta i en agil miljö och följa bästa praxis för att säkerställa en smidig och effektiv projektexekvering. Arbetet kommer att utföras på plats i vår kunds lokaler i Lund tre dagar i veckan. Obligatoriska kvalifikationer: Minst 5 års praktisk erfarenhet av C++-programmering. Expertis inom objektorienterad programmering, felsökning, algoritmer och prestandaoptimering. Erfarenhet av Test Driven Development, kontinuerlig integration och agila metoder. En kandidatexamen i mjukvaruutveckling eller ett relaterat område. Du måste behärska både svenska och engelska flytande, såväl i tal som i skrift. Det är meriterande om du har erfarenhet av Linux, SQL, Python, nätverksprotokoll, cybersäkerhet, Kubernetes och Docker."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75309-senior-c-developer-4/",
+    "roles": [
+      "Developer"
+    ],
+    "places": [
+      "Hybrid",
+      "Lund"
+    ],
+    "description": "Assignment Description We are actively searching for a Senior C++ Developer on behalf of our client. The role involves collaborating closely with team members to analyze project requirements, design and develop secure, efficient code, and maintain it throughout the development lifecycle. You will be responsible for identifying and addressing performance bottlenecks, troubleshooting and fixing bugs, and ensuring that the codebase meets high-quality standards. Additionally, you will work within an Agile environment, adhering to best practices to ensure smooth and efficient project execution. The work will be performed on-site at our client&#8217;s premises in Lund three days a week. Required Qualifications: Minimum of 5 years of hands-on experience with C++ programming. Expertise in object-oriented programming, debugging, algorithms, and performance optimization. Familiarity with Test Driven Development, continuous integration, and Agile methodologies. A bachelor’s degree in software engineering or a related field. Proficiency in both Swedish and English, spoken and written. It is meritorious if you have experience with Linux, SQL, Python, network protocols, cybersecurity, Kubernetes, and Docker."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75255-keycloak-specialist/",
+    "roles": [
+      "Specialist"
+    ],
+    "places": [
+      "Copenhagen",
+      "Remote"
+    ],
+    "description": "Assignment Description We are currently seeking a developer with Keycloak experience for a hybrid role in Copenhagen. The project involves upgrading Keycloak, replacing databases, and ensuring system compatibility, requiring close collaboration with the client throughout the process. Main Responsibilities The developer will be responsible for upgrading Keycloak from version 4 to version 22, as well as replacing ApacheDS with a PostgreSQL database. They will ensure compatibility between the Keycloak SpS bridge and custom HTML forms. Collaboration with the client will be necessary to complete the upgrade of the Keycloak SpS bridge, followed by testing and validating the upgraded functionality within a test environment. The project will follow a two-phase approach to mitigate risks, guided by a detailed project plan provided to support the process. A two-phase approach will be implemented to manage risks, ensuring smooth progress throughout the project. A detailed project plan will be provided to guide the developer and the client, outlining each step for clarity and precision. Qualifications: Experience working with Keycloak (particularly in upgrades and system integration) Familiarity with PostgreSQL databases and ApacheDS In-depth understanding of the Keycloak SpS bridge and its interaction with custom HTML forms Ability to collaborate effectively with clients in a hybrid work setting Experience managing and validating systems in a test environment"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75159-ot-specialistkonsult/",
+    "roles": [
+      "Operational Technology"
+    ],
+    "places": [
+      "Remote",
+      "Tomelilla"
+    ],
+    "description": "Uppdragsbeskrivning Vi söker en erfaren konsult med expertis inom OT (Operational Technology) för att stötta ett kommunalt bolag i att granska och säkerställa att deras nya OT-design uppfyller kraven enligt NIS2-direktivet. Uppdraget innebär att arbeta delvis på plats hos kunden och delvis på distans. Huvudsakliga ansvarsområden Du kommer att ansvara för att granska den föreslagna OT-designen ur ett säkerhets- och efterlevnadsperspektiv. Detta innefattar att identifiera eventuella brister och utarbeta rekommendationer för förbättringar och säkerhetsåtgärder. Rollen innebär nära samarbete med interna team som arbetar med övergripande krav kopplade till NIS2 och informationssäkerhet. Deltagande i workshops och möten med kunden kommer att vara centralt för att presentera resultat och föreslå åtgärder. Obligatoriska kvalifikationer: Dokumenterad erfarenhet av att arbeta med OT-system. Erfarenhet av att designa, implementera och underhålla OT-nätverk. Djup förståelse för serverkommunikation, val av kommunikationslösningar samt integration mellan IT och OT. Det är meriterande om du har kunskap om specifika krav och riktlinjer för kommunala bolag inom samhällskritisk infrastruktur. Vidare är det en fördel om du har erfarenhet av att bedöma lämpliga systemuppsättningar, brandväggslösningar och interna gränssnitt för OT-nätverk. Stark kompetens inom OT-nätverk är nödvändig för att säkerställa en trygg och effektiv drift."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
+    "roles": [
+      "Utvecklare"
+    ],
+    "places": [
+      "Distans",
+      "Lund"
+    ],
+    "description": "Uppdragsbeskrivning Vi söker en erfaren Scala-utvecklare som är van vid att arbeta med eventdrivna system och som har kunskap om teknologier som ElasticSearch och Cassandra. Rollen innefattar ett stort fokus på att förbättra och optimera befintliga system för att möta ökande användarantal och krav på prestanda. Vår kunds kontor ligger i Lund, med möjlighet att arbeta på distans från andra platser i Sverige. Huvudsakliga ansvarsområden: Som Scala-utvecklare kommer du att arbeta med att utveckla och optimera system för att möta ökande krav på prestanda och kapacitet. En central del av ditt arbete kommer att vara att hantera migrering av kunder för att säkerställa att systemet klarar den ökade belastningen. Du kommer även att utföra lasttester och implementera lastbalansering för att säkerställa effektivitet. För att förbättra systemets prestanda kommer du att optimera kod och omstrukturera datamodeller, samt genomföra en migrering från Elastic till SQL-baserade databaser. Dessutom kommer du att bidra till skapandet av en skalbar och robust plattform som kan möta framtida utmaningar. Obligatoriska kvalifikationer: Gedigen erfarenhet av Scala-utveckling. Erfarenhet av att genomföra lasttester och arbeta med prestandaoptimering. Meriterande kvalifikationer: Kunskap inom eventdriven arkitektur och erfarenhet av RabbitMQ. Erfarenhet av DevOps-relaterade teknologier såsom AWS/Cloud, Terraform, CloudFormation eller OpenStack. Erfarenhet av att arbeta med ElasticSearch och Cassandra för datahantering. Kunskap om att bygga och underhålla pipelines samt arbeta med infrastruktur som kod. Förmåga att bidra till plattformsarkitektur och driva utvecklingen framåt. Svenska språkkunskaper och närhet till Lund ses som en fördel, men distansarbete är möjligt. Personliga egenskaper:  Förmåga att arbeta självständigt och i team för att hitta lösningar på problem relaterade till hög belastning."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
+    "roles": [
+      "Specialist"
+    ],
+    "places": [
+      "Hybrid",
+      "Norrköping"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en konsult med mycket god kunskap inom Citrix XenMobile och Citrix NetScaler. Rollbeskrivning: Genomgång av den befintliga IT-miljön. Stödja säkerställning av en säker hantering av mobila enheter. Skapa ett företagsanpassat app-bibliotek, som användaren har begränsad tillgång till. Dokumentation. Utbildning av personal. Överlämning till tekniker och telefonisupport. Kvalifikationer: Du ska ha mycket god kunskap kring Citrix Xenmobile Du ska ha mycket god kunskap kring Citrix Netscaler"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
+    "roles": [
+      "Javautvecklare"
+    ],
+    "places": [
+      "Sundsvall"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en Java utvecklare. Rollbeskrivning: Utveckling initierad av vår kunds verksamhet och deras externa kunder Ständiga förbättringar för att öka kvalitet och effektivitet. Omvärldsbevakning Att hela tiden utveckla nya sätt för att automatisera, effektivisera och säkra kvaliteten. Framtagande av enhetstester för att möjliggöra stor del av kodtäckning i arbetet. Kvalifikationer: Du ska ha tidigare erfarenhet av systemutveckling i huvudsak med inriktning mot Javautveckling (Java Spring) Du ska ha erfarenhet av arbete med applikationsservrar (framförallt Jboss) Du ska ha erfarenhet av arbete inom området iXBRL/XBRL &#8211; standarden samt utvecklande av taxonomier för ekonomisk information med inriktning på främst årsredovisning. Du ska ha erfarenhet av utveckling av systemlösningar mha reporting standard api. Meriterande krav: Du har erfarenhet av testdriven och beteendedriven utveckling (TDD/BDD) Du har tidigare erfarenhet av arbete med Micro-services (API) och vissa delar mot front-end Du har erfarenhet av continuous integration/ continuous deployment (CI/CD) och tillhörande containerhantering med delar såsom Docker och kubernetes. Tekniker: Jira, Confluence, cucumber, IBM MQ, Jenkins, Maven och Vue 3. Arbetssätt: Agilt, iterativt och värdeskapande med SAFe som agilt ramverk och inspiration Agilt team med stort eget ansvar Du kommer att arbeta på plats i kundens lokaler i Sundsvall, möjlighet till 60% distansarbete efter dialog med slutkunden."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/74422-testledare-lumera/",
+    "roles": [
+      "Testare"
+    ],
+    "places": [
+      "Hybrid",
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en testare som kommer att säkerställa att tillhandahållna releaser uppfyller förväntan vad gäller produktens funktionalitet samt verifierar att den nya tjänsten kan supporteras. Som testare hos vår kund förväntas du ha erfarenhet av en eller flera olika testmetodiker. I rollen som testare skall du tillsammans med vår kunds verksamhet ta fram och skriva regressionstestscenarion som verifierar viktiga flöden och processer inom Lumera. Arbetet består av: Skriva nya testscenarios för viktiga flöden. Automatisera testerna med Lumera Test Library Följa upp och rapportera testresultat Kvalifikationer: Du ska ha erfarenhet av att ta fram regressionstester för Lumera Du ska ha erfarenhet av hand on testautomatisering av Lumera Du ska ha erfarenhet av Lumera Test Library &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Stockholm, med möjlighet till 50% distansarbete."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
+    "roles": [
+      "IT Technician"
+    ],
+    "places": [
+      "Distans",
+      "Sundsvall"
+    ],
+    "description": "Uppdragbeskrivning För kunds räkning söker vi nu en It-tekniker inom applikationsdrift i Windows Server OS-miljö. Arbetet inkluderar slutanvändarkontakter, leverantörskontakter och problemlösning, baserat på ITIL-ramverk. SKA-krav: Du ska ha teknisk kompetens inom Windows Server OS och erfarenhet av underhåll i Windowsmiljö. Du ska vara nivå 4, 9-12års erfarenhet. Du ska ha minst ett års erfarenhet av drift av storskalig central skanningslösning (minst 400 000 sidor/månad). Du ska ha minst tre års erfarenhet av arbete med Windows Server. Bör-krav: Du bör ha erfarenhet av ITIL-ramverk. Du kommer att behöva arbeta på plats i vår kunds lokaler minst 3 dagar i veckan."
+  }
+]
