@@ -1,5 +1,27 @@
 [
   {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
+    "roles": [
+      "Engineer"
+    ],
+    "places": [
+      "Brande",
+      "Remote",
+      "Skovlunde"
+    ],
+    "description": "Assignment Description We are looking for 4 DevOps Engineers on behalf of our client. These roles will involve the automation of infrastructure hardware platforms, specifically focusing on server and network component orchestration. Responsibilities include automating the installation and configuration processes, as well as utilizing infrastructure automation tools like Ansible and Chef. The position is primarily remote, with 1-2 days on-site at the customers locations in Skovlunde or Brande bi-weekly. You will be tasked with automating various elements of servers and auxiliary hardware components within the infrastructure platform. This includes developing and maintaining automation scripts in PowerShell or Bash to streamline server and network orchestration. Using tools such as Ansible, the engineers will ensure efficient infrastructure and network component management. Collaboration with development teams will be essential to guarantee the smooth automation of deployment processes. Additionally, they will document procedures, produce &#8221;documentation as code,&#8221; and develop training materials to support ongoing projects and team development. Required Qualifications: Extensive understanding of network and server hardware. Proficiency in using automation tools like Ansible (Python) or Chef. Experience with GitLab runners and container orchestration platforms such as Kubernetes. Strong emphasis on IT/OT security, along with knowledge of security standards and products. It is meritorious if you have experience with HPE Server Hardware, Eaton Products, and Meinberg Products. Certification such as CKA (Certified Kubernetes Administrator) is also an advantage. Familiarity with IT management frameworks, including ITIL, and tools like Jira will be beneficial for this role."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+    "roles": [
+      "Backendutvecklare"
+    ],
+    "places": [
+      "Sundsvall"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en backend-utvecklare med inriktning Python och AI. Vår kund arbetar med agil metodik baserat på CRISP-ML-processen med kontinuerlig feedback och förbättringar. Du kommer även att arbeta i ett agilt team, där det är stort eget ansvar. Rollbeskrivning: På ett strukturerat och samarbetsinriktat sätt driva AI/ML-utvecklingen. Du kommer att arbeta med förberedelse och bearbetning av data. Natural Language Processing (NLP): Erfarenhet med språkmodeller (LLMs) och NLP för att lösa AI/ML-uppgifter. Du kommer att arbeta med testdriven och beteendedriven utveckling (TDD/BDD), Utvecklingsmetodiker där testning och beteenden står i fokus. Kvalifikationer: Du ska ha god erfarenhet av Python, då det är huvudspråket för utvecklingen, andra moderna programmerings språk kan också användas. Du ska ha kunskap inom artificiell intelligens och maskininlärning, inklusive modellutveckling, träning av modeller och byggande av pipelines. Du ska ha erfarenhet av CRISP-ML eller liknande strukturerade processer för ML-utveckling. Du ska ha erfarenhet av hantering av Continuous Integration/Continuous Deployment-processer, samt erfarenhet med Docker och Kubernetes. Du ska gärna ha erfarenhet av följande verktyg: Jira, Confluence, Airflow, JupyterLabs, MLflow Tracking, Ollama, Label studio, CUDA och Kubernetes. &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Sundsvall cirka 50% av tiden. &nbsp;"
+  },
+  {
     "link_to_assignment": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
     "roles": [
       "Arkitekt"
@@ -107,17 +129,6 @@
       "Sundsvall"
     ],
     "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en Java utvecklare. Rollbeskrivning: Utveckling initierad av vår kunds verksamhet och deras externa kunder Ständiga förbättringar för att öka kvalitet och effektivitet. Omvärldsbevakning Att hela tiden utveckla nya sätt för att automatisera, effektivisera och säkra kvaliteten. Framtagande av enhetstester för att möjliggöra stor del av kodtäckning i arbetet. Kvalifikationer: Du ska ha tidigare erfarenhet av systemutveckling i huvudsak med inriktning mot Javautveckling (Java Spring) Du ska ha erfarenhet av arbete med applikationsservrar (framförallt Jboss) Du ska ha erfarenhet av arbete inom området iXBRL/XBRL &#8211; standarden samt utvecklande av taxonomier för ekonomisk information med inriktning på främst årsredovisning. Du ska ha erfarenhet av utveckling av systemlösningar mha reporting standard api. Meriterande krav: Du har erfarenhet av testdriven och beteendedriven utveckling (TDD/BDD) Du har tidigare erfarenhet av arbete med Micro-services (API) och vissa delar mot front-end Du har erfarenhet av continuous integration/ continuous deployment (CI/CD) och tillhörande containerhantering med delar såsom Docker och kubernetes. Tekniker: Jira, Confluence, cucumber, IBM MQ, Jenkins, Maven och Vue 3. Arbetssätt: Agilt, iterativt och värdeskapande med SAFe som agilt ramverk och inspiration Agilt team med stort eget ansvar Du kommer att arbeta på plats i kundens lokaler i Sundsvall, möjlighet till 60% distansarbete efter dialog med slutkunden."
-  },
-  {
-    "link_to_assignment": "https://upgraded.se/konsultuppdrag/74422-testledare-lumera/",
-    "roles": [
-      "Testare"
-    ],
-    "places": [
-      "Hybrid",
-      "Stockholm"
-    ],
-    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en testare som kommer att säkerställa att tillhandahållna releaser uppfyller förväntan vad gäller produktens funktionalitet samt verifierar att den nya tjänsten kan supporteras. Som testare hos vår kund förväntas du ha erfarenhet av en eller flera olika testmetodiker. I rollen som testare skall du tillsammans med vår kunds verksamhet ta fram och skriva regressionstestscenarion som verifierar viktiga flöden och processer inom Lumera. Arbetet består av: Skriva nya testscenarios för viktiga flöden. Automatisera testerna med Lumera Test Library Följa upp och rapportera testresultat Kvalifikationer: Du ska ha erfarenhet av att ta fram regressionstester för Lumera Du ska ha erfarenhet av hand on testautomatisering av Lumera Du ska ha erfarenhet av Lumera Test Library &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Stockholm, med möjlighet till 50% distansarbete."
   },
   {
     "link_to_assignment": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",

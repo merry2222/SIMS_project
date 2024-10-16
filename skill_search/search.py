@@ -16,7 +16,7 @@ def get_match(job_description):
     matched_skills = []
     
     for skill in skills:
-        master_synonym = skill['id']
+        skill_id = skill['id']
         all_synonyms = skill['synonyms']
         
         case_search = True
@@ -36,6 +36,6 @@ def get_match(job_description):
         
         # Om skill över huvud taget finns appendas skillen
         if case_search == False:
-            matched_skills.append((master_synonym, matched_synonym))
+            matched_skills.append((skill_id, matched_synonym))
     
     return matched_skills
