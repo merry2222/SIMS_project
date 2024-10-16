@@ -39,12 +39,11 @@ employee_data = json.loads(result.stdout)['results']
 # Hämtar descriptions, link och role
 descriptions = get_descriptions()
 
-results = []
+# Initialize an empty dictionary to store user data
+user_data = {}
 
-# Hittar matches (frågan om denna borde skrivas i ett snabbare språk)
+# Your existing loop
 for description in descriptions:
-    # Här körs funktionen grade i grading/grade.py
-    # TODO: Denna ska viktas med AI just nu räknar den bara upp
     grades = grade(description[2], get_match(description[2]))
     for employee in employee_data:
         score = []
@@ -54,16 +53,27 @@ for description in descriptions:
                     score.append(graded_skill[1])
         total = calculate(score)
 
-        # Example usage
-        file_path = 'streamlit.json'
-        new_user = {
-            "UserID": employee['id'],
-            "UserName": employee['name'],
-            "Matches": {
-                "Link": description[1],
-                "Joblist": description[0],
-                "SkillMatch": calculate(score)
+        # Create or update user entry
+        if employee['id'] not in user_data:
+            user_data[employee['id']] = {
+                "UserID": employee['id'],
+                "UserName": employee['name'],
+                "Matches": []
             }
-        }
-        append_to_json(file_path, new_user)
-        print("Data appended")
+
+        # Add the match to the user's Matches list
+        user_data[employee['id']]["Matches"].append({
+            "Link": description[1],
+            "Joblist": description[0],
+            "SkillMatch": calculate(score)
+        })
+
+# Convert the dictionary to a list for JSON serialization
+output_data = list(user_data.values())
+
+# Write the data to the JSON file
+file_path = 'streamlit.json'
+with open(file_path, 'w') as file:
+    json.dump(output_data, file, indent=4)
+
+print("Data saved to", file_path)
