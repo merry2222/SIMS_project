@@ -36,7 +36,7 @@ function write_to_file(filename, data_array) {
     
     fs.writeFile(filename, JSON.stringify(data_array, null, 2), (err) => {
         if (err) throw err;
-        console.log('Data written to file');
+        //console.log('Data written to file');
     })
 }
 
