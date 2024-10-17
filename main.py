@@ -5,27 +5,7 @@ import json
 from skill_search.search import get_match
 from job_fetch.get_data import get_descriptions
 from grading.grade import grade
-
-def calculate(all_scores):
-    sum = 0
-    for score in all_scores:
-        sum+=score
-    return sum
-
-def append_to_json(file_path, new_data):
-    # Read existing data
-    try:
-        with open(file_path, 'r') as file:
-            data = json.load(file)
-    except FileNotFoundError:
-        data = []
-
-    # Append new data
-    data.append(new_data)
-
-    # Write updated data back to file
-    with open(file_path, 'w') as file:
-        json.dump(data, file, indent=4)
+from calculate_score import calculate_score
 
 # Kör fetch.js
 subprocess.run(['node', 'job_fetch/fetch.js'])
@@ -42,7 +22,7 @@ descriptions = get_descriptions()
 # Initialize an empty dictionary to store user data
 user_data = {}
 
-# Your existing loop
+# Matches descriptions
 for description in descriptions:
     grades = grade(description[2], get_match(description[2]))
     for employee in employee_data:
@@ -51,7 +31,6 @@ for description in descriptions:
             for graded_skill in grades:
                 if employee_skill == graded_skill[0]:
                     score.append(graded_skill[1])
-        total = calculate(score)
 
         # Create or update user entry
         if employee['id'] not in user_data:
@@ -65,7 +44,7 @@ for description in descriptions:
         user_data[employee['id']]["Matches"].append({
             "Link": description[1],
             "Joblist": description[0],
-            "SkillMatch": calculate(score)
+            "SkillMatch": calculate_score(score, grades)
         })
 
 # Convert the dictionary to a list for JSON serialization
