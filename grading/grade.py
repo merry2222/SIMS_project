@@ -28,5 +28,6 @@ def grade(description, matches):
 if __name__ == "__main__":
     description = "Vi söker en utvecklare som kan Java, vi vill att du kan Python"
     matches = [(5245, 'Utveclare'), (703, 'Java'), (11792, 'Vi'), (22070, 'Python')]
+    grades = [(5245, 10), (703, 4), (11792, 2), (22070, 9)]
     print(grade(description, matches))
 """

@@ -4,7 +4,7 @@ import re
 def load_json():
     # Hard coded file
     file_path = 'skill_search/alla_skills.json'
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         return json.load(file)
 
 def create_skill_regex(skill):

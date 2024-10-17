@@ -1,5 +1,15 @@
 [
   {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+    "roles": [
+      "System Architect"
+    ],
+    "places": [
+      "Sundsvall"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi en Systemarkitekt med expertis inom AI/BI. Uppdraget innebär att leda modernisering och utveckling av system med starkt fokus på AI, BI och säkerhet. Rollbeskrivning: Designa och modernisera system med fokus på AI och BI, inklusive mikro-tjänster och Kafka-lösningar. Migrera äldre Cobol-system till modern Java- och Linux-plattform med stöd av AI/BI. Utveckla lösningar för BI och AI, skapa datastrategier och arkitektur för analyser och affärsbeslut. Samarbeta med utvecklingsteam och myndigheter för att säkerställa att systemlösningarna uppfyller både tekniska och affärsmässiga mål. Säkerställa säkerhet och kvalitet genom DevSecOps och agila metoder. Ge tekniskt stöd och beslutsunderlag till ledningen och driva strategiska IT-frågor. Huvudsakliga arbetsuppgifter/Skall-krav: Du ska ha tidigare erfarenhet inom liknande roll, arbetat som systemarkitekt och systemförnyelse. Du ska ha goda kunskaper inom följande tekniker: BI i GrossSQL, Oracle, Sas verktygen. Jira. Python, Linux, Jenkins, ETL, Kubernetes. Du ska kunna ta fram dokumentation och förslag till realisering i form av lösningsarkitektur, både i text och i modeller. Du ska kunna ta fram lösningsmönster för att arbeta med micro-services(API:er) och Kafta- lösningar samt BIaaS(SaaS-BI as a Service koncept). Nära kopplat till AI. Du ska kunna ta fram lösningsmönster för att arbeta med i första hand BI samt till BI stöd för AI med mönster, tränande, arkitektur, datastrategier och datarutinunderlag. Du ska kunna presentera lösningsarkitektur på ett tydligt sätt så att utvecklingsteam, it-styrning, verksamhet och att i vissa fall andra myndigheter förstår och kan agera och implementera korrekt. Du ska kunna samarbeta med andra myndigheter i BI frågor-Teknikstöd och normalisering. Även AI. Du ska kunna arbeta med vår kunds datamanagement för utveckling av AI- och maskininlärningsmodeller. Du ska kunna föreslå, skapa beslutsunderlag samt införa samt förvalta BI- plattformarna och verktygen. Övriga arbetsuppgifter/ Bör-krav: Stöd för ledningsgrupperingar och bistå med framtagande av underlag för välgrundade beslut. Ta fram arkitekturella modeller och lösningar som främjar DEVSECOPS. Driva och förbättra myndighetssamarbetet med hjälp av optimeringar av processer och arkitekturella principer. Hantera strategiska frågeställningar angående hur IT-stödets lösningsarkitektur BI(och AI) ska möta verksamhetens målbild och strategier. Ta fram lösningsmönster för att arbeta med micro-services(API:er) samt Kafta- lösningar. Jobba med säkerhet och säkerhetsställa vår kunds målarkitektur. I vår kunds systemförnyelse ingår att: Kartlägga befintligt Systemstöd i Cobol som migrerats från Unisys stordatorplattform till Linuxbaserad plattform om AI kan lösa vissa delfunktioner samt koppling till BI för uppföljning och analys. Identifiera och föreslå hur befintliga Cobolprogram skall ersättas med nya IT- komponenter som skall implementeras på en Linux- och java baserad plattform enligt vår kunds målarkitektur mot AI/BI stöd. Styra och hjälpa utvecklingsteamen som implementerar IT-lösningen som ersätter Befintlig IT-lösning i BI(och AI). Arbetssätt Agilt, iterativt och värdeskapande med SAFe som agilt ramverk och inspiration. Uppdragsleda/delprojektleda för flera team Agilt med fokus på problemlösning inom arkitektur Arkitektmodeller och vara uppdragsledare inom migreringsprojekt av IT-lösningar i Cobol på olika stordatorplattformar till Java- och Linuxbaserade plattformar ur ett BI inriktad teknik. Styra val av BI för analys och lagring. Sätta och styra via it-arkitektstyrning och områdesarkitektur på Operativ, taktisk och strategisk nivå"
+  },
+  {
     "link_to_assignment": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
     "roles": [
       "Engineer"
@@ -53,50 +63,6 @@
       "Remote"
     ],
     "description": "Assignment Description On behalf of our client we are looking for a Cloud Data Engineer. Role Description: You will be responsible for developing and maintaining the data pipelines in our clients Snowflake based data warehouse. You will be responsible for loading and extracting data from source to target, so that your team members of bi developers can utilize the data to create Power BI reports based on it. Requirements: You have 1-3 years of experience working with Snowflake hands on, implementing SPs and UDFs. You have 10+ years of experience with Data Warehouse solutions prior to Snowflake. You are an expert in SQL. You are an expert in designing and developing ELT/ETL flows. You have good communication skills and you are organized. You are good at problem-solving and like to dig deeper into complicated matters. You are familiar with Snowflake. To be successful in this role you need to know how to check the metadata, get and read SQL and JS based object definition or where it is used. Fluency in Confluence. You have practical knowledge of git. You have advanced knowledge of Data Warehousing concepts and standard approaches. You have advanced knowledge of Data Integration concepts (streaming, batch). You have strong skills in translating business requirements to ETL solutions. You are familiar with DataStage is an avenges but not a must. You have knowledge about DS structures: sequences, jobs, etc. You have a large and extensive knowledge of how an ELT/ETL design and implementation should be designed to make it robust and scalable. &nbsp; You will be working from our clients office in Poland, either in Warsaw or Gdansk. With the possibility of remote work, after discussions with our client."
-  },
-  {
-    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75315-senior-c-utvecklare/",
-    "roles": [
-      "Utvecklare"
-    ],
-    "places": [
-      "Hybrid",
-      "Lund"
-    ],
-    "description": "Uppdragsbeskrivning Vi söker en Senior C++ utvecklare på uppdrag av vår kund. Rollen innebär ett nära samarbete med teammedlemmar för att analysera projektkrav, designa och utveckla säker och effektiv kod samt underhålla den genom hela utvecklingscykeln. Du kommer att vara ansvarig för att identifiera och åtgärda prestandaflaskhalsar, felsöka och rätta till buggar samt säkerställa att kodbasen håller hög kvalitet. Dessutom kommer du att arbeta i en agil miljö och följa bästa praxis för att säkerställa en smidig och effektiv projektexekvering. Arbetet kommer att utföras på plats i vår kunds lokaler i Lund tre dagar i veckan. Obligatoriska kvalifikationer: Minst 5 års praktisk erfarenhet av C++-programmering. Expertis inom objektorienterad programmering, felsökning, algoritmer och prestandaoptimering. Erfarenhet av Test Driven Development, kontinuerlig integration och agila metoder. En kandidatexamen i mjukvaruutveckling eller ett relaterat område. Du måste behärska både svenska och engelska flytande, såväl i tal som i skrift. Det är meriterande om du har erfarenhet av Linux, SQL, Python, nätverksprotokoll, cybersäkerhet, Kubernetes och Docker."
-  },
-  {
-    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75309-senior-c-developer-4/",
-    "roles": [
-      "Developer"
-    ],
-    "places": [
-      "Hybrid",
-      "Lund"
-    ],
-    "description": "Assignment Description We are actively searching for a Senior C++ Developer on behalf of our client. The role involves collaborating closely with team members to analyze project requirements, design and develop secure, efficient code, and maintain it throughout the development lifecycle. You will be responsible for identifying and addressing performance bottlenecks, troubleshooting and fixing bugs, and ensuring that the codebase meets high-quality standards. Additionally, you will work within an Agile environment, adhering to best practices to ensure smooth and efficient project execution. The work will be performed on-site at our client&#8217;s premises in Lund three days a week. Required Qualifications: Minimum of 5 years of hands-on experience with C++ programming. Expertise in object-oriented programming, debugging, algorithms, and performance optimization. Familiarity with Test Driven Development, continuous integration, and Agile methodologies. A bachelor’s degree in software engineering or a related field. Proficiency in both Swedish and English, spoken and written. It is meritorious if you have experience with Linux, SQL, Python, network protocols, cybersecurity, Kubernetes, and Docker."
-  },
-  {
-    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75255-keycloak-specialist/",
-    "roles": [
-      "Specialist"
-    ],
-    "places": [
-      "Copenhagen",
-      "Remote"
-    ],
-    "description": "Assignment Description We are currently seeking a developer with Keycloak experience for a hybrid role in Copenhagen. The project involves upgrading Keycloak, replacing databases, and ensuring system compatibility, requiring close collaboration with the client throughout the process. Main Responsibilities The developer will be responsible for upgrading Keycloak from version 4 to version 22, as well as replacing ApacheDS with a PostgreSQL database. They will ensure compatibility between the Keycloak SpS bridge and custom HTML forms. Collaboration with the client will be necessary to complete the upgrade of the Keycloak SpS bridge, followed by testing and validating the upgraded functionality within a test environment. The project will follow a two-phase approach to mitigate risks, guided by a detailed project plan provided to support the process. A two-phase approach will be implemented to manage risks, ensuring smooth progress throughout the project. A detailed project plan will be provided to guide the developer and the client, outlining each step for clarity and precision. Qualifications: Experience working with Keycloak (particularly in upgrades and system integration) Familiarity with PostgreSQL databases and ApacheDS In-depth understanding of the Keycloak SpS bridge and its interaction with custom HTML forms Ability to collaborate effectively with clients in a hybrid work setting Experience managing and validating systems in a test environment"
-  },
-  {
-    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75159-ot-specialistkonsult/",
-    "roles": [
-      "Operational Technology"
-    ],
-    "places": [
-      "Remote",
-      "Tomelilla"
-    ],
-    "description": "Uppdragsbeskrivning Vi söker en erfaren konsult med expertis inom OT (Operational Technology) för att stötta ett kommunalt bolag i att granska och säkerställa att deras nya OT-design uppfyller kraven enligt NIS2-direktivet. Uppdraget innebär att arbeta delvis på plats hos kunden och delvis på distans. Huvudsakliga ansvarsområden Du kommer att ansvara för att granska den föreslagna OT-designen ur ett säkerhets- och efterlevnadsperspektiv. Detta innefattar att identifiera eventuella brister och utarbeta rekommendationer för förbättringar och säkerhetsåtgärder. Rollen innebär nära samarbete med interna team som arbetar med övergripande krav kopplade till NIS2 och informationssäkerhet. Deltagande i workshops och möten med kunden kommer att vara centralt för att presentera resultat och föreslå åtgärder. Obligatoriska kvalifikationer: Dokumenterad erfarenhet av att arbeta med OT-system. Erfarenhet av att designa, implementera och underhålla OT-nätverk. Djup förståelse för serverkommunikation, val av kommunikationslösningar samt integration mellan IT och OT. Det är meriterande om du har kunskap om specifika krav och riktlinjer för kommunala bolag inom samhällskritisk infrastruktur. Vidare är det en fördel om du har erfarenhet av att bedöma lämpliga systemuppsättningar, brandväggslösningar och interna gränssnitt för OT-nätverk. Stark kompetens inom OT-nätverk är nödvändig för att säkerställa en trygg och effektiv drift."
   },
   {
     "link_to_assignment": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
