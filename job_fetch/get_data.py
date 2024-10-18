@@ -14,6 +14,7 @@ def get_descriptions():
     descriptions = []
     
     for job in data:
-        descriptions.append((job['roles'][0], job['link_to_assignment'], job['description']))
+        role = job['roles'][0] if job['roles'] else 'null'
+        descriptions.append((role, job['link_to_assignment'], job['description']))
 
     return descriptions
