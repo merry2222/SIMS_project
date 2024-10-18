@@ -21,5 +21,6 @@ def calculate_score(employee_scores, all_scores):
         if score == '1':
             emp_merit+=1
     
-    score = emp_must/must*(75*emp_should/should + 25*emp_merit/merit)
+    #score = emp_must/must*(75*emp_should/should + 25*emp_merit/merit)
+    score = emp_must/must*60 + emp_should/should*30 + emp_merit/merit*10
     return f"{round(score)}%"
