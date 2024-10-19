@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "pip": "^0.0.1",
+    "spacy": "^0.0.4",
+    "string-similarity": "^4.0.4"
+  }
+}

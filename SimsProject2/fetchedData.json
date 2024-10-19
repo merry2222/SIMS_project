@@ -1,0 +1,311 @@
+[
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
+    "roles": [
+      "BI-utvecklare"
+    ],
+    "places": [
+      "Örebro"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en PowerBI-utvecklare till ett dataprojekt. Du ska ha djup kompetens och erfarenhet av arbete med Power BI. Eftersom att vår kund sätter upp allt från grunden är det också viktigt att du har erfarenhet av liknande projekt där man förutom att bygga rapporter även har jobbat med den grundläggande infrastrukturen runt Power BI. Rollbeskrivning: Du förväntas driva uppsättningen av infrastruktur och behörighetsstruktur för Power BI som en del av den nya datalagerplattformen. Agera som mentor till intern personal för uppbyggnad av intern kompetens, både inom IT och verksamheten samt delta i kravställning av rapporter för att sedan driva utvecklingen. Utvecklingen av rapporter. Skall-krav: Du ska ha arbetat med att utveckla Power BI-lösningar och rapporter i minst fyra år. Du ska ha erfarenhet av att agera som mentor i Power BI. Du ska ha erfarenhet av att designa och sätta upp en ny miljö för Power BI från grunden. Du ska ha certifiering i Microsoft PL-300 MS Power BI Data Analyst. Du ska ha erfarenhet av att genomföra utbildning i Power BI för IT och verksamhet. Du ska ha erfarenhet från arbete inom finansiell sektor och gärna med erfarenhet av att arbeta med myndighetsrapportering. Du ska ha arbetat med SQL för att felsöka och validera data. Du ska ha viss erfarenhet av Python för att kunna läsa kod och förstå vad den gör. Du ska ha tidigare erfarenhet av arbete inom finansiellt institut eller likande verksamhet gärna med fokus på myndighetsrapportering. &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Örebro cirka 3 dagar i veckan."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+    "roles": [
+      "IT-arkitekt"
+    ],
+    "places": [
+      "Linköping"
+    ],
+    "description": "Assignment Description: On behalf of our client we are looking for a IT Architect. To succeed in this role you should be technical and have an understanding of infrastructure. Role Description: A specific task: Receive and store all the information in the current project &#8221;Digital Workplace&#8221; from the IT architect that will end so that the information can be forwarded to the new employee later. Requirements: You should have knowledge in Microsoft technologies M365 (Moder Work, Security &amp; Compliance), Azure and PowerPlatform. You are technical and have an understanding of infrastructure. You have the ability to orchestrate different IT projects between functions and suppliers You need be able to handle and coordinate in wide range of areas. You will work from our clients office in Linköping, 1-2 days hybrid work is possible after discussions with our client."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+    "roles": [
+      "System Architect"
+    ],
+    "places": [
+      "Sundsvall"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi en Systemarkitekt med expertis inom AI/BI. Uppdraget innebär att leda modernisering och utveckling av system med starkt fokus på AI, BI och säkerhet. Rollbeskrivning: Designa och modernisera system med fokus på AI och BI, inklusive mikro-tjänster och Kafka-lösningar. Migrera äldre Cobol-system till modern Java- och Linux-plattform med stöd av AI/BI. Utveckla lösningar för BI och AI, skapa datastrategier och arkitektur för analyser och affärsbeslut. Samarbeta med utvecklingsteam och myndigheter för att säkerställa att systemlösningarna uppfyller både tekniska och affärsmässiga mål. Säkerställa säkerhet och kvalitet genom DevSecOps och agila metoder. Ge tekniskt stöd och beslutsunderlag till ledningen och driva strategiska IT-frågor. Huvudsakliga arbetsuppgifter/Skall-krav: Du ska ha tidigare erfarenhet inom liknande roll, arbetat som systemarkitekt och systemförnyelse. Du ska ha goda kunskaper inom följande tekniker: BI i GrossSQL, Oracle, Sas verktygen. Jira. Python, Linux, Jenkins, ETL, Kubernetes. Du ska kunna ta fram dokumentation och förslag till realisering i form av lösningsarkitektur, både i text och i modeller. Du ska kunna ta fram lösningsmönster för att arbeta med micro-services(API:er) och Kafta- lösningar samt BIaaS(SaaS-BI as a Service koncept). Nära kopplat till AI. Du ska kunna ta fram lösningsmönster för att arbeta med i första hand BI samt till BI stöd för AI med mönster, tränande, arkitektur, datastrategier och datarutinunderlag. Du ska kunna presentera lösningsarkitektur på ett tydligt sätt så att utvecklingsteam, it-styrning, verksamhet och att i vissa fall andra myndigheter förstår och kan agera och implementera korrekt. Du ska kunna samarbeta med andra myndigheter i BI frågor-Teknikstöd och normalisering. Även AI. Du ska kunna arbeta med vår kunds datamanagement för utveckling av AI- och maskininlärningsmodeller. Du ska kunna föreslå, skapa beslutsunderlag samt införa samt förvalta BI- plattformarna och verktygen. Övriga arbetsuppgifter/ Bör-krav: Stöd för ledningsgrupperingar och bistå med framtagande av underlag för välgrundade beslut. Ta fram arkitekturella modeller och lösningar som främjar DEVSECOPS. Driva och förbättra myndighetssamarbetet med hjälp av optimeringar av processer och arkitekturella principer. Hantera strategiska frågeställningar angående hur IT-stödets lösningsarkitektur BI(och AI) ska möta verksamhetens målbild och strategier. Ta fram lösningsmönster för att arbeta med micro-services(API:er) samt Kafta- lösningar. Jobba med säkerhet och säkerhetsställa vår kunds målarkitektur. I vår kunds systemförnyelse ingår att: Kartlägga befintligt Systemstöd i Cobol som migrerats från Unisys stordatorplattform till Linuxbaserad plattform om AI kan lösa vissa delfunktioner samt koppling till BI för uppföljning och analys. Identifiera och föreslå hur befintliga Cobolprogram skall ersättas med nya IT- komponenter som skall implementeras på en Linux- och java baserad plattform enligt vår kunds målarkitektur mot AI/BI stöd. Styra och hjälpa utvecklingsteamen som implementerar IT-lösningen som ersätter Befintlig IT-lösning i BI(och AI). Arbetssätt Agilt, iterativt och värdeskapande med SAFe som agilt ramverk och inspiration. Uppdragsleda/delprojektleda för flera team Agilt med fokus på problemlösning inom arkitektur Arkitektmodeller och vara uppdragsledare inom migreringsprojekt av IT-lösningar i Cobol på olika stordatorplattformar till Java- och Linuxbaserade plattformar ur ett BI inriktad teknik. Styra val av BI för analys och lagring. Sätta och styra via it-arkitektstyrning och områdesarkitektur på Operativ, taktisk och strategisk nivå"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
+    "roles": [
+      "Fullstack-utvecklare"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en erfaren fullstack-utvecklare. Du kommer att arbeta enligt vår kunds agila ramverk samt ta fram tekniska lösningar i samråd med produktägare, kravställare, arkitekter och övriga teamet. Som person bör du tycka om att vara en del av ett team, våga framföra vad du tror på och gilla att förklara komplexa saker på ett pedagogiskt sätt. Du är öppen för nya idéer och perspektiv, och är bekväm med att ge och ta feedback. Vår kund värderar egenskaper som vänlighet och empati högt, då det bidrar till deras positiva och inkluderande arbetsplats. Kvalifikationer: Du har genomfört Högskoleutbildning eller motsvarande inom systemutveckling. Du är självgående och lyhörd. Du har tidigare erfarenhet av arbete inom Java. Du har erfarenhet av arbete med ett modernt frontend-ramverk  (ex: React, Angular, Vue). Du har erfarenhet av att arbeta agilt. Du har goda kommunikationsförmågor på engelska, då det är det primära språket i teamet. Du har minst 5 års erfarenhet av liknande roll. Meriterande: Du har erfarenhet av att arbeta i internationella team. Du har erfarenhet från bank/finans-sektor. Du har erfarenhet från tekniskt komplexa system. Du tidigare har arbetat med Jakarta EE, Linux, någon SQL-databas och Typescript. Du har arbetat med att implementera designer från Figma Har arbetat med komponentbibliotek, typ Material UI Du har goda kunskaper inom tillgänglighet &nbsp; Du kommer att arbeta i ett internationellt team, och därför kommer du behöva vara på plats i vår kunds lokaler, samt kunna arbeta på distans."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
+    "roles": [
+      "Systemspecialist"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en Systemspecialist inom PULS/KPTX. Vår kund håller på att införa Lumera och behöver därför förstärkning av dig som har kunskap inom PULS och KPTX. Du kommer att arbeta med bla. migrering, analys och mapping. Kvalifikationer: Du ska ha mycket goda försäkringskunskaper, allmänt samt specifikt tjänstepension. Du ska ha mycket goda kompetenser i PULS/KTPX, tekniskt och funktionellt, inklusive migreringsfunktionalitet. Du ska ha kunskap inom PULS/KTPX datamodell. Du ska ha erfarenhet av SQL. Du ska ha erfarenhet av migrering av tjänstpensionsbestånd till Lumera eller annat system. &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Stockholm cirka 2-3 dagar i veckan."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
+    "roles": [
+      "Redovisning"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning Uppdraget innebär ett helhetsansvar för att arbeta med årsbokslutet för tekniska förvaltningen samt budgetering inför 2025. Det ingår även att göra en genomlysning av ekonomiprocesserna för bokslut, uppföljning och budget samt föreslå och implementera verktyg som kan automatisera och effektivisera arbetet. T.ex. med hjälp av AI-stöd, exceleratormallar eller automatiserade excelmallar. Det ingår även att genomföra en strukturerad överlämning och upplärning av den nya medarbetaren när tjänsten som är vakant sen 31/10 2024 tillsätts. Uppskattad tid i timmar för uppdraget: Ungefärlig heltidstjänst. Möjlighet till en eller flera förlängningar upp till 2025-12-31. Krav på leverans Det förväntas att snabbt kunna sätta sig in i arbetet och leverera enligt processerna för bokslut, budget och planering samt uppföljning. Att snabbt lära sig arbeta i ekonomisystemet Unit4 ERP. Att föreslå förbättringar i arbetssätt och hur systemstödet används. Att vara självständig och ta reda på den information som behövs från verksamheten. Att strukturera upp arbetsprocesser och bygga relevanta verktyg (t.ex. exceleratormallar eller automatiserade excelmallar) som effektiviserar arbetet. Samt göra en bra och pedagogisk överlämning efter tjänsten är tillsatt. Hantering av personuppgifter Interna dokument om personalens personuppgifter, samt även på externa fakturor med t.ex. konsulters namn. Handlingar som ska ingå i offert: &#8211; CV &#8211; Referensförteckning &#8211; Pris Skallkrav Erfarenhet av att jobba med redovisning och bokslut samt anläggningsredovisning Erfarenhet av att jobba med processförbättringar inom ekonomistyrningsområdet Erfarenhet av ekonomisystemet Unit4 ERP Börkrav Meriterande med erfarenhet inom kommunal redovisning såsom RKR, kommunbas och räkenskapssammandraget Meriterande med erfarenhet av teknisk verksamhet såsom gata, trafik, park, VA Liknande erfarenhet från kommunal verksamhet är meriterande Personliga egenskaper Personen måste vara strukturerad och noggrann. Det är viktigt att personen kan påvisa strukturerad och noggrann personlighet, t.ex. genom erfarenhet av att ha byggt upp eller förbättrat ekonomiska processer för uppföljning och prognos/budgetarbete Personen måste vara målinriktad. Uppdraget kräver en person som är målinriktad, är van att leverera samt trivs med det Personen måste vara samarbetsorienterad. Det är viktigt att personen har väldigt lätt för att samarbeta med andra och lösa personens frågor på ett pedagogiskt och smidigt sätt som inger förtroende och tillit Övriga krav Erfarenheten styrks genom 3 antal referensuppdrag med exempelvis följande innehåll: o Uppdragets namn och typ av uppdrag, omfattning samt värdet på uppdraget. o Namn på konsult/er som genomförde uppdraget. o Beskrivning av uppdragets planering, genomförande, resultat och uppföljning. Ange även tidpunkten för uppdraget. Start- och slutdatum. Kontaktuppgifter referensperson till minst 3 referenspersoner &nbsp; För att kunna ansöka för detta uppdrag måste du vara en registrerad användare i vår portal som är helt kostnadsfri. Är du ny användare och vill registrera dig eller ditt bolag i Upgrades portal klicka här: https://portal.upgraded.se/"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
+    "roles": [
+      "Project Manager"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Assignment Description On behalf of our client we are now looking for a Project Manager. You will be working on a project where close collaboration will be needed between two teams, one in Sweden and one in Germany. The project entails data migration, where the focus will be on making the migration as smooth as possible. Requirements: You have previous experience in financial payment systems and migration of customer &amp; financial data from one ERP system to another. You have excellent people &amp; communication skills,  since the process involves getting two organisations to collaborate. You have previous experience working with the agile methodology in a SaFE environment. It is manadatory that you are able to communicate in English on a business level. If you can communicate in Swedish or German, this is considered to be a plus. You will be working from our clients office in Stockholm 3 days per weeks."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
+    "roles": [
+      "Produktspecialist"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en Produktspecialist. Som Produktspecialist för investeringsrådgivning kommer du att spela en central roll i att säkerställa att vår kunds investeringsrådgivnings process fungerar smidigt och effektivt. Rollbeskrivning: Du kommer att ansvara för att förvalta och utveckla vår kunds befintliga dokumentationsverktyg. Du kommer att aktivt delta i skapandet av ett nytt rådgivningsverktyg. Din expertis inom investeringsrådgivning är avgörande för att säkerställa att vår kunds verktyg och processer uppfyller både interna och externa krav. Du kommer att ha ett brett kontaktnät hos vår kund, vilket kommer kräva samarbete med olika interna och externa intressenter för att driva utvecklings- och förbättringsaktiviteter framåt. Arbetsuppgifter:  Förvalta dokumentationsverktyget och ge support till rådgivare och kvalitetsansvariga. Ansvara för regulatoriska frågor och sammanställa egenkontroller. Delta i utvecklingen av ett nytt rådgivningsverktyg och bidra med kravställning och regelefterlevnad. Utveckla och förbättra nya funktioner i verktyget. Hantera rutin- och processbeskrivningar, utbildningsmaterial, webbinformation och intranät. Ge support till interna intressenter och delta i process- och riskarbete. Arbeta i team med IT- och verksamhetskollegor och delta i relevanta arbetsströmmar. Kvalifikationer: Du har relevant akademisk examen eller motsvarande. Du har erfarenhet av bankverksamhet från andra institut. Du har god produktkunskap inom investeringsrådgivning och dess regelverk. Du har goda kunskaper i svenska både i tal och skrift. Du har förmåga att skapa ordning och struktur i komplexa frågeställningar. Du har god kommunikationsförmåga och förmåga att förklara komplicerade saker på ett enkelt sätt. Det är meriterande om du även har erfarenhet av process- och verksamhetsutveckling, kravskrivande och projektarbete och Swedsec-licens. &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Stockholm"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
+    "roles": [
+      "Arkitekt"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": "Uppdragsbeskrivning Vi söker en kunnig Integrationsarkitekt med djup erfarenhet inom Kubernetes för att stödja vår kunds integrationsenhet. Uppdraget innebär att etablera drift och övervakning i Kuberneteskluster, samt att optimera CD pipelines och övervakningslösningar. Rollen kräver nära samarbete med utvecklare och operationspersonal samt effektiv kommunikation med plattformsteamet för att säkerställa robusta och moderna integrationslösningar. Huvudsakliga ansvarsområden: Utveckla och hantera CD pipelines med GitLab och Argo CD Bygga och underhålla övervakningslösningar med verktyg som Open Telemetry, Prometheus, Jaeger och Loki Skapa och underhålla övervakningspaneler i Grafana Säkerställa att Kubernetesklustren är rätt dimensionerade Automatisera processer för att öka effektiviteten och förbättra befintliga system Vår kunds integrationsplattform genomgår en teknisk transformation där Kubernetes är målmålet. Plattformen bygger på Java, Springboot och Apache Camel, med en strategi som främjar tjänstebaserad integration och ett starkt fokus på developer experience (DX) genom förenkling, dokumentation och automation. Integrationsteamet ansvarar för att tillgodose både interna och externa integrationsbehov, med betoning på säkerhet, stabilitet och förvaltningsbarhet. Obligatoriska kvalifikationer: Erfarenhet av logghanteringsverktyg som LOKI, Prometheus och Jaeger Kunskap om Argo CD för CI/CD-implementationer God insikt i hur en DevOps-orienterad verksamhet fungerar Förmåga att skapa och underhålla övervakningspaneler i Grafana Erfarenhet av att arbeta med Kuberneteskluster i integrationsmiljöer God problemlösningsförmåga, analytiskt tänkande och förmåga att arbeta effektivt i team Det är meriterande om du har erfarenhet av andra DevOps-verktyg och tekniker samt certifieringar inom relevanta områden. Erfarenhet av Docker Desktop och SonarQube är också en fördel."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
+    "roles": [
+      "Supporttekniker"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": "Uppdragsbeskrivning Vi söker nu efter en Supporttekniker. Uppdraget innebär huvudsakligen att ansvara för förvaltningen av en digital plattform. Rollen innefattar arbete med uppdatering och underhåll av teknisk dokumentation, felsökning, buggrättning och mindre utvecklingsuppgifter för att säkerställa kontinuerlig drift av plattformen. Huvudsakliga ansvarsområden: Underhåll och förvaltning av digitala plattformar Uppdatering av teknisk dokumentation Felsökning och rättning av buggar Mindre utvecklingsinsatser för kontinuerlig drift Samarbete med ett team av utvecklare och applikationsspecialister Obligatoriska kvalifikationer: Erfarenhet av att utveckla och underhålla digitala plattformar, särskilt portallösningar (1-2 års erfarenhet) Kompetensnivå motsvarande nivå 3-4 Det är meriterande om du har flera års erfarenhet av agilt arbete och är van vid att kommunicera med beställare eller produktägare. Erfarenhet från större organisationer samt god teknisk dokumentationsvana är också värdefullt. Dessutom är kunskap om PowerPlatform fördelaktigt, då det kan förekomma att du stöttar andra teammedlemmar med detta när kapacitet finns. Personliga egenskaper: Problemlösningsorienterad Självgående och initiativtagande Bekväm med att be om hjälp vid behov"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+    "roles": [
+      "Projektledare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": "Uppdragsbeskrivning Vi söker en erfaren Projektledare för ett projekt som syftar till att säkerställa att privata vårdgivare kan använda en definierad vårdinformationslösning i enlighet med planerade riktlinjer. För att uppnå detta krävs ett helhetsgrepp som beaktar flera perspektiv och områden. Som Projektledare kommer du att ansvara för att IT-tjänster och vårdplattformar för privata vårdgivare fungerar optimalt och erbjuder samma förutsättningar som motsvarande tjänster inom offentlig verksamhet. Du kommer att leda och koordinera implementeringen av vårdplattformen hos privata vårdgivare, samt utforma och samordna avtal gällande IT-tjänster och säkerställa att dessa avtal godkänns av alla berörda parter. Dessutom har du det övergripande ansvaret för att skapa ett effektivt team och säkerställa förankring och samverkan inom och utanför projektets ramar. Obligatoriska kvalifikationer:  Tidigare ansvar för projekt med syfte att utveckla, paketera och implementera IT-tjänster för privata vårdgivare inom hälso- och sjukvården. Erfarenhet av att utarbeta IT-avtal för privata vårdgivare. Mycket god kommunikativ förmåga och erfarenhet av att kommunicera på högre ledningsnivå. Förmåga att bygga starka relationer med olika projektaktörer, inklusive i miljöer där engelska används. Kunskap om vårdinformationssystem och processer samt erfarenhet av att paketera stödjande IT-tjänster för vårdgivare. God insikt i organisation och strukturer inom offentlig sektor, med erfarenhet av att hantera projekt som involverar flera olika enheter. Erfarenhet av att leda komplexa projekt med starkt fokus på förändringsarbete och utveckling inom hälso- och sjukvård. Mycket god kunskap om primärvårdens IT-behov och tillhörande kringutrustning. God förståelse för regelverk kring IT-tjänster inom hälso- och sjukvård. Det är meriterande om du har djup kunskap och praktisk erfarenhet av vårdinformationsprogram ur perspektivet av privata vårdgivares behov. Det är även en fördel om du har minst 2 års erfarenhet som projektledare inom liknande vårdinformationsprojekt. Personliga egenskaper: För att lyckas i rollen behöver du vara strukturerad, effektiv och tydlig i din kommunikation. Projektet har en tight tidplan och involverar flera olika aktörer och organisationer, vilket kräver god samarbetsförmåga. Det är viktigt att kunna balansera en tydlig målbild med ett öga för detaljer."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
+    "roles": [
+      "Application Engineer"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Assignment Description On behalf of our client we are looking for an Application Engineer. To succeed in this role you should have business analyst knowledge of the Dynamics platform and experience with integration technologies in the Azure platform. Role Description: You will provide expertise in the areas of implementation of an ongoing project. Provide governance, and technical support to ensure software solutions are designed, developed, and implemented in Dynamics and Azure. Assist in planning, designing, and customizing new Dynamics solutions. Work with continuous improvements of the delivered services. Requirements: You have previously worked in an agile environment as well as practical agile software development. Overall you have 7+ of experience of which at least 3-5 years of related experience in developing and supporting Dynamics 365 CE Online Sales applications. You have prior experience of working in Azure. You are fluent in Swedish, both written and verbally. You need to be self-motivated, proactive and analytical. &nbsp; Key objectives for this role: Dynamics 365 CE Solution Design, Dynamics 365 CE Plug-in Development, Integrations and technologies built in Azure."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
+    "roles": [
+      "Organisationskonsult"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning Avropet omfattar en (1) resurskonsult på 50% &#8211; 100% av en heltidstjänst för utförande av beskrivna uppdrag. Möjlighet till förlängning: 6 månader i taget, t o m 261231. Uppdragen kan variera i omfattning över tid och pågå enligt angiven kontraktstid. I rollen som kvalitetsutvecklare kommer du dels ingå i ordinarie uppdrag, dels medverka i flera pågående projekt inom Solna Stad. Uppdraget omfattar främst nedanstående arbetsuppgifter och projekt men kan kompletteras med andra arbetsuppgifter om så är lämpligt. Exempel på projekt/uppdrag som pågår och planeras framåt är: &#8211; Arbetsuppgifter inom ordinarie uppföljningsplan som kvalitetsutvecklare &#8211; Implementering av fast omsorgskontakt i hemtjänsten &#8211; Stöd till chefer vid implementering av nya arbetssätt &#8211; Projekt i uppdrag kopplade till statsbidrag Krav på leverans Leveranser av arbetet ställer krav på hög grad av samverkan inom staben för kvalitetsutveckling samt med övriga funktioner inom och med närliggande förvaltningar. Förväntat resultat Leverans på god nivå inom ordinarie uppdrag och/eller projekt i enlighet med de mål som sätts som konsulten ansvarar för, i samverkan med intressenter. Exempel på intressenter är ledningsfunktioner, staber, myndighetsavdelning, utförare, vårdcentraler, motsvarande funktioner i andra kommuner och gemensamma samarbetsorganisationer. Placering i Solna med möjlighet till distansarbete under del av tiden Projektorganisation Omvårdnadsförvaltningens stab för kvalitetsutveckling och ev projektorganisationer, Solna stad. Kvalitetsutvecklaren rapporterar till stabschef Patrik Ulander. Krav på dokumentation Konsulten förväntas dokumentera och föra protokoll samt skriva rapport för de uppdrag som genomförs, i enlighet med projektplaner och ordinarie arbetssätt. Hantering av personuppgifter Personuppgiftshantering inom ramen för uppdrag och projekt. Handlingar som ska ingå i offert: &#8211; CV &#8211; Referensförteckning &#8211; Certifikat &#8211; Pris Skallkrav Högskoleexamen lägst nivå magisterexamen i omvårdnad eller motsvarande bakgrund Konsulten ska ha stor erfarenhet av driva utredningar och projekt inom offentlig verksamhet. Lämna uppgift om vilken information i CV som stöder beskrivningen Dokumenterad erfarenhet av verksamhetsutveckling under minst 5 år inom regional och kommunal verksamhet. Lämna uppgift om vilken information i CV som stöder beskrivningen Konsulten ska tidigare arbetat som projektledare eller kvalitetsutvecklare inom kommun eller/och regionverksamhet. Lämna uppgift om vilken information i CV som stöder beskrivningen Stor förmåga att arbeta självständigt och strukturerat. Lämna uppgift om vilken information i CV som stöder beskrivningen Förmåga att planera sitt arbete i förväg och organisera samt prioritera aktiviteter på ett effektivt sätt. Lämna uppgift om vilken information i CV som stöder beskrivningen Certifiering eller motsvarande i förändringsledning Börkrav Förmåga att på egen hand driva utredningar och förstudier. Lämna uppgift om vilken information i CV som stöder beskrivningen Konsulten har gedigen kunskap och kompetens i förändrings -och förbättringskunskap. Lämna uppgift om vilken information i CV som stöder beskrivningen Meriterande om konsulten har kännedom eller haft uppdrag inom Solna stad tidigare Personliga egenskaper Konsulten bör vara kommunikativ, flexibel, utvecklingsorienterad kunna hantera flertal uppdrag och leveranser samtidigt. Ha mycket god samarbetsförmåga Övriga krav Lämna namn, telefonnummer och e-post för en referensperson För att kunna ansöka för detta uppdrag måste du vara en registrerad användare i vår portal som är helt kostnadsfri. Är du ny användare och vill registrera dig eller ditt bolag i [&hellip;]"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
+    "roles": [
+      "Data-arkitekt"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi en Data-arkitekt med fokus på Datamodellering med Data Vault. Du kommer att hjälpa vår kund med en stor cloudmigrering från Cloudera till AWS &amp; Snowflake. Kvalifikationer: Du ska ha erfarenhet av Datamodellering med Data Vault. Du ska ha kunskap inom AWS och Snowflake. &nbsp;"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+    "roles": [
+      "Testledare"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": "Uppdragsbeskrivning Vi söker en erfaren testledare som ska ansvara för testprocesser inom ett pågående projekt för att byta ut och integrera ett nytt informationssytem. Rollen innebär att leda och planera tester för komplexa och integrerade mjukvarusystem, samt att utveckla och implementera automatiserade tester. Obligatoriska kvalifikationer: Goda kunskaper i engelska, både muntligt och skriftligt Minst tre års dokumenterad erfarenhet som testledare Praktisk erfarenhet av att arbeta med ledande testverktyg, såsom Azure DevOps Stark förmåga att dokumentera och presentera resultat Det är meriterande om du har djupgående kunskaper om agila arbetsmetoder och erfarenhet av att arbeta med testautomatisering. Tidigare arbete inom offentlig sektor och god kännedom om en projektorganisation ses också som en fördel. Erfarenhet av medicintekniska produkter, inklusive förståelse för relevanta regelverk, är värdefullt. Dessutom är det fördelaktigt om du har dokumenterad erfarenhet av att driva projekt inom offentlig hälso- och sjukvård. Personliga egenskaper Vi söker dig som är engagerad, drivande och nyfiken, med förmåga att aktivt söka den information som behövs för att driva arbetet framåt. Du är prestigelös, lyhörd och kan på ett professionellt sätt dela med dig av dina erfarenheter och idéer. Noggrannhet och ett strukturerat arbetssätt är avgörande för att lyckas i denna roll. Du har vana av att samordna processer och samarbeta över olika områden. Hög serviceanda, ett professionellt förhållningssätt och god kommunikationsförmåga är viktiga egenskaper, särskilt i en föränderlig och komplex organisation där ett tydligt ledarskap krävs. Det är även viktigt med stort fokus på de verksamheter som projektet omfattar. &nbsp; Nedan finner du kravmatris för detta uppdrag. Vänligen ladda ner och fyll i denna samt bifoga tillsammans med CV i ansökan. Länk till kravmatris"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+    "roles": [
+      "Governance",
+      "Säkerhet"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För vår kund inom bank- och försäkringssektorns räkning söker vi nu en IT Risk och Internkontroll-koordinator. Du förväntas arbeta mot kundens stordator för att dokumentera och rapportera i säkerhetssyfte. Kvalifikationer: Du ska ha erfarenhet av Microsoft/Azure. Du ska ha stor erfarenhet av GRC funktioner. Du ska kunna sammarbeta med och förstå andra delar av organisationer på en process- och teknisk nivå. Du ska ha insyn i följande regelverk: DORA, ITIL-processer, ISO27000. Du ska ha vana av att sätta upp processer. Du ska kunna upprätta åtgärder kopplat till systemstöd."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+    "roles": [
+      "Salesforce Engineer"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi en Copado Operations Specialist som kan ansluta till deras team. Rollen fokuserar på att hantera och optimera vår kunds befintliga DevOps-pipeline med hjälp av Copado-plattformen. Du bör ha djup expertis inom Copado, snarare än programmeringskunskaper, och en förmåga att effektivt driva och optimera arbetet med verktyget. Krav på rollen: Omfattande erfarenhet av Copado DevOps-hantering, särskilt med att konfigurera och optimera befintliga pipelines. Dokumenterad erfarenhet av att hantera operativ drift i Copado-miljöer, samt säkerställa smidig integrering och distribution av ändringar. Förmåga att stötta och vägleda team, och säkerställa att verksamheten flyter på, särskilt vid eventuella personalförändringar. Expertis i att felsöka och upprätthålla stabilitet och effektivitet i Copado-baserade miljöer. Övrig Information: Du ska kunna starta relativt snart och snabbt ta ansvar för Copado-verktyget för att driva användningen på ett effektivt sätt. Du bör vara proaktiv i att säkerställa att verktyget stödjer vår kunds operativa behov och att teamen får det stöd de behöver genom eventuella förändringar."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+    "roles": [
+      "AI/ML"
+    ],
+    "places": [
+      "Göteborg"
+    ],
+    "description": "Assignment Description Our client is currently seeking an AI Architect. The role will have an ongoing responsibility for overseeing the successful execution and continuous improvement of the AI/ML environment and governance structure. Main Responsibilities: AI/ML Architecture Overview You will perform an assessment of the existing AI/ML architecture, covering data pipelines, algorithms, models, and their scalability. This involves identifying areas for improvement, optimization, and potential risks within the current systems, as well as providing recommendations for enhancements. Strategic Roadmap Development Your role involves proposing a roadmap to advance AI/ML capabilities, outlining both short-term and long-term goals. You will also define milestones, timelines, and resource requirements to support the proposed roadmap. AI/ML Operations Platform Review You will evaluate potential suppliers for AI/ML operations platforms based on criteria such as functionality, scalability, compatibility, and cost. By comparing and ranking suppliers according to the company’s specific needs, you will prepare a summary report of the analysis, highlighting top contenders and offering recommendations. Additionally, you will develop a detailed requirement specification document to streamline procurement, ensuring alignment with the strategic roadmap. Governance Structure Development The role requires designing a governance structure that complies with the AI Act and other legal requirements. This includes setting guidelines for AI ethics, data privacy, model transparency, and risk management. You will also provide recommendations for internal training, communication, and monitoring practices to ensure adherence to these governance standards. Long-term Ownership and Management You will serve as the primary point of contact for AI/ML strategy, platform management, and governance. Collaboration with internal teams and external partners is essential to align AI/ML strategies with the organization’s objectives. Additionally, you will assist internal teams in evaluating the potential use of AI/ML solutions. Required Qualifications: Minimum 10 years of AI/ML experience, including 5 years in senior consulting or management roles. Track record of designing, implementing, and optimizing AI/ML architectures in medium to large enterprises. Extensive experience in AI/ML strategic roadmaps, setting milestones, timelines, and managing resources. Hands-on experience in researching, evaluating, and selecting AI/ML operations platforms. Expertise in developing AI/ML platform requirement specifications and managing procurement. Prior experience in AI governance structure design and implementation. Familiarity with AI Act, legal requirements, and industry best practices. Strong communication, collaboration, and project management skills. Proficient in monitoring, evaluating, and improving AI/ML environments and governance structures. Bachelor’s or Master’s degree in Computer Science, AI, Machine Learning, Data Science, or a related field. It is meritorious if you have experience in defining business solutions, fluency in English (with additional language skills being a plus), and a willingness to travel when required for specific tasks, as well as the possibility to influence how AI and ML are managed within a large manufacturing company. The desired attributes include a self-driven attitude with the ability to navigate ambiguity, the opportunity to actively contribute to defining architecture and processes, and the ability to collaborate effectively with an international team."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
+    "roles": [
+      "Engineer"
+    ],
+    "places": [
+      "Brande",
+      "Remote",
+      "Skovlunde"
+    ],
+    "description": "Assignment Description We are looking for 4 DevOps Engineers on behalf of our client. These roles will involve the automation of infrastructure hardware platforms, specifically focusing on server and network component orchestration. Responsibilities include automating the installation and configuration processes, as well as utilizing infrastructure automation tools like Ansible and Chef. The position is primarily remote, with 1-2 days on-site at the customers locations in Skovlunde or Brande bi-weekly. You will be tasked with automating various elements of servers and auxiliary hardware components within the infrastructure platform. This includes developing and maintaining automation scripts in PowerShell or Bash to streamline server and network orchestration. Using tools such as Ansible, the engineers will ensure efficient infrastructure and network component management. Collaboration with development teams will be essential to guarantee the smooth automation of deployment processes. Additionally, they will document procedures, produce &#8221;documentation as code,&#8221; and develop training materials to support ongoing projects and team development. Required Qualifications: Extensive understanding of network and server hardware. Proficiency in using automation tools like Ansible (Python) or Chef. Experience with GitLab runners and container orchestration platforms such as Kubernetes. Strong emphasis on IT/OT security, along with knowledge of security standards and products. It is meritorious if you have experience with HPE Server Hardware, Eaton Products, and Meinberg Products. Certification such as CKA (Certified Kubernetes Administrator) is also an advantage. Familiarity with IT management frameworks, including ITIL, and tools like Jira will be beneficial for this role."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+    "roles": [
+      "Business Analyst"
+    ],
+    "places": [
+      "Västerås"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi en Business Analyst som främst kommer att jobba med implementation av ERP-systemet M3, utvecklingsarbete kan även förekomma inom andra applikationer. Arbetsuppgifter: Verksamhetsutveckling Kravarbete Integrationsmapping och testning Kvalifikationer: Du ska ha erfarenhet av kravarbete och integrationsmappning. Du är en erfaren Business Analyst. Du ska kunna fånga verksamhetens behov och proaktivt föreslå nya lösningar för att förbättra verksamheten. Du ska ha flera års erfarenhet av kravarbete och du ska kunna skapa informativa krav som kan tas vidare för utveckling och test. Du ska gärna ha erfarenhet av Jira. Du ska gärna ha vana av agila arbetsmetoder. Som person så är du ansvarsfull, lösningsorienterad, och strukturerad. Du ska ha god kommunikations förmåga och behärska både Svenska och Engelska obehindrat i tal och skrift. &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Västerås cirka 2-3 dagar i veckan."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+    "roles": [
+      "Backendutvecklare"
+    ],
+    "places": [
+      "Sundsvall"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en backend-utvecklare med inriktning Python och AI. Vår kund arbetar med agil metodik baserat på CRISP-ML-processen med kontinuerlig feedback och förbättringar. Du kommer även att arbeta i ett agilt team, där det är stort eget ansvar. Rollbeskrivning: På ett strukturerat och samarbetsinriktat sätt driva AI/ML-utvecklingen. Du kommer att arbeta med förberedelse och bearbetning av data. Natural Language Processing (NLP): Erfarenhet med språkmodeller (LLMs) och NLP för att lösa AI/ML-uppgifter. Du kommer att arbeta med testdriven och beteendedriven utveckling (TDD/BDD), Utvecklingsmetodiker där testning och beteenden står i fokus. Kvalifikationer: Du ska ha god erfarenhet av Python, då det är huvudspråket för utvecklingen, andra moderna programmerings språk kan också användas. Du ska ha kunskap inom artificiell intelligens och maskininlärning, inklusive modellutveckling, träning av modeller och byggande av pipelines. Du ska ha erfarenhet av CRISP-ML eller liknande strukturerade processer för ML-utveckling. Du ska ha erfarenhet av hantering av Continuous Integration/Continuous Deployment-processer, samt erfarenhet med Docker och Kubernetes. Du ska gärna ha erfarenhet av följande verktyg: Jira, Confluence, Airflow, JupyterLabs, MLflow Tracking, Ollama, Label studio, CUDA och Kubernetes. &nbsp; Du kommer att arbeta på plats i vår kunds lokaler i Sundsvall cirka 50% av tiden. &nbsp;"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+    "roles": [
+      "Project Manager"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Assignment Description: On behalf of our client we are looking for a Project Manager to help further development of the existing web based administrator portal. This project will require close collaboration between teams. Requirements: You should have experience in web based (java) development It is essential that you have the ability to make teams from different tech departments develop a common language. You should have good people and communication skills, as you will be assisting in the collaboration between two departments. You need to have the ability to synchronize data between two backends, as a part of master data management. You should have experience working with the agile methodoly in a SaFE environment. You should have good communication skills in English (business level) Communication skills in Swedish/German are considered a plus. &nbsp; You will be working from our clients office in Stockholm approximately 3 days per week."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+    "roles": [
+      "Paketerare"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Assignment Description On behalf of our client we are now looking for a consultant with knowledge of Application Management &amp; Deployment and prior experience with Intune and Powershell Scripting. Our client is looking for someone who can be a guide in how to best apply Intune as this is currently being implemented. Role Description: Perform package dispatcher tasks: application setup documentation, application testing, mainly handled via AMO portal. Perform mass application distributions and removals via the application deployment system SCCM. Maintain packaged applications in related systems: Client Software catalogue, Active Directory. Work with the ticket allocation system BMC-Remedy Handle of VBS, BAT, PowerShell scripts used in CAM team. Troubleshooting tasks around MSI/App-V package related issues. Create Reports and templates reports in SQL, Power BI for CAM team tasks Maintenance of the “Information tool” used in SCCM Support Incidents, Problem Management, Critical Incidents, etc. Requirements: You should have prior experience with SCCM Application Packaging You should have prior experience with Intune Application Packaging You should have experience with Powershell You should have experience with Scripts It is meritorious if you have a MD101/MD102 or similar certificate/education"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
+    "roles": [
+      "Arkitekt"
+    ],
+    "places": [
+      "Distans",
+      "Uppsala"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en Arkitekt som kan hjälpa till med utveckling inom datalagring, datahantering och business intelligence. Fokus för uppdraget är att ta fram ett lösningsförslag inklusive arkitektur och lösningsmönster. Rollbeskrivning: Dela data och rapporter, internt och externt, i olika format på en data-/rapportportal. Möjliggöra användning av data från data warehouse, data lake och källsystem i data-/rapportportalen. Säkerhet och åtkomstkontroll. Insamling av data från externa källor. Skall-krav: Du ska ha erfarenhet av att designa en modern dataarkitektur inklusive business intelligence (BI). Du ska ha förmåga att dokumentera arkitektur i text och med arkitekturmodeller. Du ska ha erfarenhet av teknikerna beskrivna i uppdragsbeskrivningen/rollbeskrivningen. Bör-krav:       Du bör ha erfarenhet av att dokumentera arkitektur med Archimate. Du bör ha erfarenhet av för uppdraget relevanta tjänster i Microsoft Azure. Du bör ha erfarenhet av att arbeta med Sparx EA. Du bör ha erfarenhet av att ha arbetat med offentlig verksamhet. &nbsp; Du kommer att behöva arbeta på plats i vår kunds lokaler i Uppsala ca 20%, och arbete på distans ca 80% av tiden efter överenskommelse med vår kund."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+    "roles": [
+      "Mechanical Engineer"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "The Role: As a mechanical design engineer, you contribute to constantly improve our product portfolio of bolting solutions, tools core technology and mechanical development process. You are part of research and technology innovation initiatives within the line organization and in the product projects, ensuring that the client continue to be market leader. The solutions we develop are used to improve efficiency, quality, safety, speed, ergonomics and environmental performance. You will collaborate closely within the organization to solve cross disciplinary problems, keep developing our innovative core technology and ensure we make great products for our customer. Responsibilities: Design of components and mechanisms (from concept to release to production) Present and hold 3D model meetings with technical solutions Perform structural analysis (hand calculation and FEA) calculations Produce technical documentation for both internal and external use Investigate new solutions to improve sustainability, performance or reliability Interface with engineering, marketing, sourcing, manufacturing and testing teams Assist in design validation testing (endurance, performance, drop)"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
+    "roles": [
+      "Arkivkonsult"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning Sektorn är i behov av hjälp med att ta fram nya Informationshanteringsplaner för Social och arbetsmarknadsnämnden samt äldrenämnden och behöver konsultstöd för att samordna arbetet med detta. Konsulten kommer även att arbeta operativt genom att bland annat vara delaktig i arbetet med att ta fram och skriva ner informationshanteringsplanerna. En mall för Informationshanteringsplan som ska gälla för hela Staden håller på att arbetas fram. Det är viktigt att Stadens mall följs då den kommer ligga till grund för arbetet med framtagandet av nämndernas informationshanteringsplaner. Sektorn ser gärna att arbetet med att ta fram nämndernas informationshanteringsplaner påbörjas omgående och är öppna för en teamlösning förutsatt att de totala antalet uppskattade timmar inte ändras. Förhoppningen är att informationshanteringsplanerna är klara i januari 2025. I viss utsträckning behöver konsulten kunna befinna sig på plats i Stadshuset i Sundbyberg, men arbetet kommer även att kunna genomföras via teams. Sektorn har för avsikt att intervjua tänkta kandidater och stor vikt kommer att lägga på personlig lämplighet i detta uppdrag. Sektorn uppskattar uppdraget till motsvarande en (1) månads heltidstjänst, cirka 180 timmar under uppdragsperioden. Sektorn garanterar inga volymer. Exakt upplägg och planering bestäms i samråd med Sektorn. Under uppdraget har Staden en månads uppsägningstid. Krav på leverans Uppdraget ska mynna ut i färdigställd informationshanteringsplan utformad i enlighet med stadens mall för informationshanteringsplan. Två färdigställda informationshanteringsplaner som utgår från respektive nämnds behov. Förväntat resultat Informationshanteringsplaner för sektorns nämnder enligt Stadens mall. Projektorganisation Slutrapportering till Avdelningschefen för Stab SAN och administrativt stöd. Nämndsekreterare och utredare ingår i arbetsgruppen och emottar regelbunden rapportering. Även andra funktioner kan komma att ingå. Krav på dokumentation Två informationshanteringsplaner Hantering av personuppgifter Konsulten kan komma i kontakt med kontaktuppgifter (mail och telefon) till Stadens anställda. Handlingar som ska ingå i offert: &#8211; CV &#8211; Referensförteckning &#8211; Pris Skallkrav Erfarenhet från arbete som arkivarie eller motsvarande i minst två (2) år där framtagande av informationshanteringsplaner i kommunal verksamhet har ingått i arbetet Konsulten/konsultteamet förväntas ha god erfarenhet och kunskap rörande regelverk kring informations- och dokumenthantering samt arkivering inom kommunal verksamhet Utbildning arkivarie eller motsvarande Börkrav Sektorn ser gärna att konsulten har erfarenhet av framtagande av Informationshanteringsplaner för verksamheter inom Social och arbetsmarknadsnämnd samt äldrenämnd Övriga krav Erfarenheten styrks genom två (2) antal referensuppdrag med exempelvis följande innehåll: o Uppdragets namn och typ av uppdrag, omfattning o Namn på konsult/er som genomförde uppdraget. o Beskrivning av uppdragets planering, genomförande, resultat och uppföljning. Ange även tidpunkten för uppdraget. Start- och slutdatum. Kontaktuppgifter referensperson &nbsp; För att kunna ansöka för detta uppdrag måste du vara en registrerad användare i vår portal som är helt kostnadsfri. Är du ny användare och vill registrera dig eller ditt bolag i Upgrades portal klicka här: https://portal.upgraded.se/"
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+    "roles": [
+      "IT-arkitekt"
+    ],
+    "places": [
+      "Sundsvall"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en IT-Arkitekt inom webbutveckling som är självgående och drivande. Vi ser även att du har god erfarenhet och hög kompetens inom aktuella området. Rollbeskrivning: Utreda och ta fram lösningsmönster som stödjer vår kunds mål- och referensarkitektur. Dokumentera lösningsmönster. Samverka med andra IT-arkitekter och Systemutvecklare. Stötta vid val av lösningsmönster. Kvalifikationer: Du har minst 3 års erfarenhet av Javascript ramverk, såsom Angular, React eller Vue de senaste 5 åren. Du bör ha erfarenhet av att arbeta som IT-arkitekt senaste 8 åren. Du har kunskap i Java-ramverk som Springbook, med versionhantering i GIT-hub och byggprocess i Jenkins. Du har haft en ledande roll i team som avser IT-arkitektur eller systemutveckling. Du har arbetat med skalad Scrum eller motsvarande skalat agilt arbetssätt. Du har arbetat med systemutveckling och eller IT-arkitektur avseende mikrotjänster. Du kommer att arbeta på plats i vår kunds lokaler i Sundsvall, distansarbete kan medges i samråd med vår kund."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
+    "roles": [
+      "Technical Specialist",
+      "Tekniker"
+    ],
+    "places": [
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu en arbetsplatstekniker. Rollbeskrivning: Du kommer att bidra med avlastning för nuvarande drift och projektarbete. Du kommer att arbeta inom Modern Workspace med fokus på 3rd Line Support inom Windows-baserad Device Management med SCCM och Intune. Kvalifikationer: Du har goda kunskaper inom SCCM (MECM) för åtminstone Applikationsdistribution, OS Deployment, Rapporter och patchhantering. Du är en tekniker med inriktning på hantering av Windows klientmiljö. Du har kunskap inom GPO-hantering. Du har förståelse för paketering och applikationshantering. Du har erfarenhet av Active Directory och hantering av konton och grupper. Du kan kommunicera bra på svenska i både tal och skrift, men även engelska kan fungera. Meriterande Kvalifikationer: Det är meriterande om: Du har erfarenhet av Jamf och hantering av macOS eller iOS Du har erfarenhet av Apple School/Business Manager Du har erfarenhet av Google Administration Du har erfarenhet av Samsung Knox Du har erfarenhet av Intune, Azure AD och M365 Du har kunskaper inom skripthantering, främst Powershell. Du kommer att arbeta på plats i vår kunds lokaler i Stockholm med möjlighet till distansarbete efter diskussion med vår kund."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+    "roles": [
+      "Kravanalytiker",
+      "Verksamhetsanalytiker"
+    ],
+    "places": [
+      "Kalmar",
+      "Stockholm"
+    ],
+    "description": "Uppdragsbeskrivning För kunds räkning söker vi nu flera krav- och verksamhetsanalytiker. Rollbeskrivning: Du kommer att arbeta med verksamhetsanalys, behovsfångst och kravdokumentation i nära samverkan med verksamhetsexperter, arkitekter, utvecklare, testare, UX-specialister och andra relevanta roller hos vår kund. Du förväntas säkerställa att verksamhetsbehoven utreds, detaljeras och dokumenteras i en tydlig kravstruktur. Du ska sedan omvandla kraven till lösningsförslag och utvecklingsuppgifter tillsammans med teamets övriga roller. SKA-krav: Minst 24 månader av arbetslivserfarenheten ska vara förvärvad någon gång under den senaste treårsperioden. Du ska ha arbetat minst fem (5) år med att ansvara för och utföra kravarbete i projekt eller förvaltning, enligt etablerade metoder. Med kravarbete i projekt eller förvaltning avser att du har arbetat med att identifiera intressenter, samla in, kategorisera, formulera och dokumentera krav i verktyg som Jira eller Confluence. Du ska ha arbetat minst fem (5) år med modeller, metoder, tekniker och verktyg (exempel Confluence och Jira) för kravanalys, och/eller verksamhets-, process- och systemutveckling samt förändringsarbete. Du ska ha arbetat minst fem (5) års med att leda utredning av verksamhetsfrågor som underlag till kravdokumentation. Du ska ha arbetat minst två (2) år med kravställning enligt agila metoder, såsom Scrum, Kanban, SAFE eller liknande. Du ska ha god IT-kompetens och ha arbetat minst tre (3) år med kravarbete i IT-nära verksamheter, dvs ha arbetat som en länk mellan verksamhet och IT. Du har mycket god förmåga att kommunicera i tal och skrift på svenska. BÖR-krav: Du bör ha arbetat med utredning och kravställning på tekniska tjänster (API:er). Du bör ha arbetat i ett agilt team som team coach/scrum master. Du bör ha arbetat med användningsfallsmodellering, dvs. av att leda och dokumentera användningsfallsmodeller utifrån rollen kravanalytiker. Du bör ha arbetat med informations- och processmodellering Du bör ha arbetat på statlig myndighet. Du måste kunna närvara i Kalmar för uppdragsstart samt PI-planning 11-13 november. Du kommer att arbeta på plats i vår kunds lokaler i Stockholm eller i Kalmar, cirka 2 dagar i veckan."
+  },
+  {
+    "link_to_assignment": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+    "roles": [
+      "Cloud Engineer",
+      "Data Engineer"
+    ],
+    "places": [
+      "Poland",
+      "Remote"
+    ],
+    "description": "Assignment Description On behalf of our client we are looking for a Cloud Data Engineer. Role Description: You will be responsible for developing and maintaining the data pipelines in our clients Snowflake based data warehouse. You will be responsible for loading and extracting data from source to target, so that your team members of bi developers can utilize the data to create Power BI reports based on it. Requirements: You have 1-3 years of experience working with Snowflake hands on, implementing SPs and UDFs. You have 10+ years of experience with Data Warehouse solutions prior to Snowflake. You are an expert in SQL. You are an expert in designing and developing ELT/ETL flows. You have good communication skills and you are organized. You are good at problem-solving and like to dig deeper into complicated matters. You are familiar with Snowflake. To be successful in this role you need to know how to check the metadata, get and read SQL and JS based object definition or where it is used. Fluency in Confluence. You have practical knowledge of git. You have advanced knowledge of Data Warehousing concepts and standard approaches. You have advanced knowledge of Data Integration concepts (streaming, batch). You have strong skills in translating business requirements to ETL solutions. You are familiar with DataStage is an avenges but not a must. You have knowledge about DS structures: sequences, jobs, etc. You have a large and extensive knowledge of how an ELT/ETL design and implementation should be designed to make it robust and scalable. &nbsp; You will be working from our clients office in Poland, either in Warsaw or Gdansk. With the possibility of remote work, after discussions with our client."
+  }
+]
