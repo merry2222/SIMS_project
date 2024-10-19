@@ -13,7 +13,7 @@ subprocess.run(['node', 'job_fetch/fetch.js'])
 # Hämtar descriptions som JSON
 result = subprocess.run(['node', 'employee_request/extract_data.js'], capture_output=True, text=True)
 
-# Laddar JSON
+
 employee_data = json.loads(result.stdout)['results']
 
 # Hämtar descriptions, link och role
@@ -24,13 +24,17 @@ user_data = {}
 
 # Matches descriptions
 for description in descriptions:
-    grades = grade(description[2], get_match(description[2]))
+    grades = grade(description[2], get_match(description[2]))  # Grades is a list of tuples (skill_id, score, skill_name)
     for employee in employee_data:
         score = []
-        for employee_skill in employee['skills']:
-            for graded_skill in grades:
-                if employee_skill == graded_skill[0]:
-                    score.append(graded_skill[1])
+        miss = []
+        employee_skills_set = set(employee['skills'])  # Convert employee skills to a set for faster lookup
+        for graded_skill in grades:
+            if graded_skill[0] in employee_skills_set:
+                score.append(graded_skill[1])
+            else:                                   # If the skill is not in the employee's skills, add it to the missed skills list
+                if int(graded_skill[1]) >=2:        # Only add missed skills that are should have or must have
+                    miss.append(graded_skill[2])
 
         # Create or update user entry
         if employee['id'] not in user_data:
@@ -44,7 +48,8 @@ for description in descriptions:
         user_data[employee['id']]["Matches"].append({
             "Link": description[1],
             "Joblist": description[0],
-            "SkillMatch": calculate_score(score, grades)
+            "SkillMatch": calculate_score(score, grades),
+            "MissedSkills": miss
         })
 
 # Convert the dictionary to a list for JSON serialization

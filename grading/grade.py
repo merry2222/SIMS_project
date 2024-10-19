@@ -11,7 +11,7 @@ def grade(description, matches):
 
         Skilldata is the name of the skill.
         Gradedata is a score between 0 and 3 where:
-            0 = Useless not a skill or relevant to the job description or it's a title/role
+            0 = Useless not a skill or not relevant to the job description or it's s work title
             1 = Merit
             2 = Should have
             3 = Must have
@@ -32,12 +32,13 @@ def grade(description, matches):
         skill = ' '.join(words[1:])
         #skill = words[1]
         score = words[0]
-        if score != '0' and skill: #Om score är 0 ignoreras det aka skräp-skills tex "Vi" resten kommer skickas vidare
+        if score != '0' and skill: #Om score är 0 ignoreras det aka skräp-skills resten kommer skickas vidare
             for match in matches:
                 if match[1] == skill:
-                    grades.append((match[0], score))
+                    grades.append((match[0], score, skill))
                     break
     if grades:
+        #print(grades)
         return grades  # Returnerar grades format (skill_id, score)
     else:
         grade(description, matches) #Om inga grades hittas körs funktionen igen

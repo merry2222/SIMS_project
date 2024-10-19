@@ -1,561 +1,907 @@
 [
     {
         "UserID": 5733,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Johannes Berglund",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "2%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Oracle",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "2%"
+                "SkillMatch": "10%",
+                "MissedSkills": [
+                    "Backend",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 110105,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Axel Westerlund",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "2%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Oracle",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "3%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "3%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 27999,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Teklu Kibrom",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "3%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "3%"
+                "SkillMatch": "14%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "3%"
+                "SkillMatch": "1%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "3%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "4%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "2%"
+                "SkillMatch": "14%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "30%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 10943,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Myram Suyum",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Oracle",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 17318,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Thomas Ringefors",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "3%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "24%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Kafka",
+                    "Python",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "2%"
+                "SkillMatch": "1%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "4%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "3%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "4%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "9%"
+                "SkillMatch": "3%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 84666,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Bill Gates",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Oracle",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "3%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 34315,
-        "UserName": "Anonym Anonymson",
+        "UserName": "John Carmack",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "1%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Oracle",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "5%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "2%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 95337,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Jeff Bezos",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Oracle",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 176767,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Martin Kjellqvist",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Oracle",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "Agilt",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "2%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     },
     {
         "UserID": 173963,
-        "UserName": "Anonym Anonymson",
+        "UserName": "Magnus Eriksson",
         "Matches": [
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-                "Joblist": "Engineer",
-                "SkillMatch": "1%"
+                "SkillMatch": "2%",
+                "MissedSkills": [
+                    "Systemarkitekt",
+                    "AI",
+                    "BI",
+                    "Java",
+                    "Linux",
+                    "Kafka",
+                    "Python",
+                    "Oracle",
+                    "Jenkins",
+                    "ETL",
+                    "Kubernetes",
+                    "Dokumentation",
+                    "Krav",
+                    "DevSecOps",
+                    "Processer",
+                    "Arkitektur",
+                    "Strategier",
+                    "IT",
+                    "Beslutsunderlag",
+                    "Kvalitet",
+                    "Koppling",
+                    "Analys",
+                    "Myndigheter"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "5%"
+                "SkillMatch": "2%",
+                "MissedSkills": [
+                    "Backend",
+                    "Python",
+                    "AI/ML",
+                    "NLP",
+                    "LLMs",
+                    "Natural Language Processing",
+                    "ML",
+                    "TDD",
+                    "BDD",
+                    "Continuous Integration",
+                    "Continuous Deployment",
+                    "Docker",
+                    "Kubernetes",
+                    "Data"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "2%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-                "Joblist": "IT-arkitekt",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
-                "Joblist": "Cloud Engineer",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/75133-scala-utvecklare-2/",
-                "Joblist": "Utvecklare",
-                "SkillMatch": "1%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74683-citrix-specialist/",
-                "Joblist": "Specialist",
-                "SkillMatch": "100%"
-            },
-            {
-                "Link": "https://upgraded.se/konsultuppdrag/74486-java-utvecklare-5/",
-                "Joblist": "Javautvecklare",
-                "SkillMatch": "3%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Arkitekt",
+                    "Arkitektur",
+                    "Datahantering",
+                    "Data Warehouse",
+                    "Data lake",
+                    "BI",
+                    "Business",
+                    "Dokumentera",
+                    "EA",
+                    "Sparx EA",
+                    "Krav",
+                    "Utveckling",
+                    "Data",
+                    "Warehouse",
+                    "Rollbeskrivning"
+                ]
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
-                "SkillMatch": "100%"
+                "SkillMatch": "0%",
+                "MissedSkills": [
+                    "Windows Server",
+                    "OS",
+                    "ITIL",
+                    "Windows",
+                    "Drift"
+                ]
             }
         ]
     }
