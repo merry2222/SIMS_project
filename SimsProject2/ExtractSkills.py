@@ -148,7 +148,6 @@ def extract_skills_from_job_descriptions(job_descriptions):
 
     return extracted_skills_list
 
-# Example usage
 with open("fetchedData.json", "r") as json_file:
     fetched_data = json.load(json_file)
 
