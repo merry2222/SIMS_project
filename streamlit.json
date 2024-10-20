@@ -6,86 +6,115 @@
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "2%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Oracle",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "SkillMatch": "5%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "JIRA",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "10%",
-                "MissedSkills": [
-                    "Backend",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "SkillMatch": "5%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "JIRA",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -96,87 +125,116 @@
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "2%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Oracle",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "SkillMatch": "5%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Python",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "JIRA",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "JIRA",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -187,83 +245,109 @@
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "14%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "SkillMatch": "15%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "SkillMatch": "7%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "14%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "SkillMatch": "12%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "30%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -275,87 +359,116 @@
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Oracle",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "JIRA",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "JIRA",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -366,83 +479,110 @@
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "24%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Kafka",
-                    "Python",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "SkillMatch": "20%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Kafka",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "1%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "SkillMatch": "3%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
-                "SkillMatch": "3%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "SkillMatch": "10%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -454,87 +594,116 @@
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Oracle",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "JIRA",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "JIRA",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -545,88 +714,116 @@
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "1%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Oracle",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "SkillMatch": "2%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "JIRA",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "JIRA",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -638,87 +835,116 @@
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Oracle",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "JIRA",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "JIRA",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -730,87 +956,116 @@
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Oracle",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "Agilt",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "Agilt",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "JIRA",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Agilt",
+                        "Utveckling",
+                        "Integration",
+                        "Testning",
+                        "JIRA",
+                        "Confluence"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     },
@@ -821,87 +1076,112 @@
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
                 "Joblist": "System Architect",
-                "SkillMatch": "2%",
-                "MissedSkills": [
-                    "Systemarkitekt",
-                    "AI",
-                    "BI",
-                    "Java",
-                    "Linux",
-                    "Kafka",
-                    "Python",
-                    "Oracle",
-                    "Jenkins",
-                    "ETL",
-                    "Kubernetes",
-                    "Dokumentation",
-                    "Krav",
-                    "DevSecOps",
-                    "Processer",
-                    "Arkitektur",
-                    "Strategier",
-                    "IT",
-                    "Beslutsunderlag",
-                    "Kvalitet",
-                    "Koppling",
-                    "Analys",
-                    "Myndigheter"
-                ]
+                "SkillMatch": "4%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Systemarkitekt",
+                        "AI",
+                        "BI",
+                        "Java",
+                        "Linux",
+                        "Kafka",
+                        "Oracle",
+                        "Python",
+                        "Jenkins",
+                        "ETL",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "SAFe",
+                        "DevSecOps",
+                        "Kvalitet",
+                        "Dokumentation",
+                        "API",
+                        "Analys",
+                        "Arkitektur",
+                        "Processer",
+                        "Strategier",
+                        "IT",
+                        "Krav",
+                        "Uppdragsledare",
+                        "Rollbeskrivning",
+                        "Beslutsunderlag",
+                        "Koppling"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
                 "Joblist": "Backendutvecklare",
-                "SkillMatch": "2%",
-                "MissedSkills": [
-                    "Backend",
-                    "Python",
-                    "AI/ML",
-                    "NLP",
-                    "LLMs",
-                    "Natural Language Processing",
-                    "ML",
-                    "TDD",
-                    "BDD",
-                    "Continuous Integration",
-                    "Continuous Deployment",
-                    "Docker",
-                    "Kubernetes",
-                    "Data"
-                ]
+                "SkillMatch": "10%",
+                "MissedSkills": {
+                    "MustHave": [
+                        "Backend",
+                        "Python",
+                        "AI/ML",
+                        "NLP",
+                        "Natural Language Processing",
+                        "LLMs",
+                        "TDD",
+                        "BDD",
+                        "Continuous Integration",
+                        "Continuous Deployment",
+                        "Docker",
+                        "Kubernetes"
+                    ],
+                    "ShouldHave": [
+                        "Docker och Kubernetes",
+                        "Data",
+                        "Processer",
+                        "Utveckling",
+                        "Integration",
+                        "Testning"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
                 "Joblist": "Arkitekt",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Arkitekt",
-                    "Arkitektur",
-                    "Datahantering",
-                    "Data Warehouse",
-                    "Data lake",
-                    "BI",
-                    "Business",
-                    "Dokumentera",
-                    "EA",
-                    "Sparx EA",
-                    "Krav",
-                    "Utveckling",
-                    "Data",
-                    "Warehouse",
-                    "Rollbeskrivning"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Arkitekt",
+                        "Arkitektur",
+                        "Datahantering",
+                        "Data",
+                        "Business",
+                        "BI"
+                    ],
+                    "ShouldHave": [
+                        "ArchiMate",
+                        "Sparx EA",
+                        "Data Warehouse",
+                        "Data lake",
+                        "Warehouse",
+                        "Dokumentera",
+                        "Krav",
+                        "Rollbeskrivning",
+                        "Utveckling",
+                        "Microsoft",
+                        "Offentlig verksamhet"
+                    ]
+                }
             },
             {
                 "Link": "https://upgraded.se/konsultuppdrag/74365-it-tekniker-6/",
                 "Joblist": "IT Technician",
                 "SkillMatch": "0%",
-                "MissedSkills": [
-                    "Windows Server",
-                    "OS",
-                    "ITIL",
-                    "Windows",
-                    "Drift"
-                ]
+                "MissedSkills": {
+                    "MustHave": [
+                        "Windows Server",
+                        "Windows"
+                    ],
+                    "ShouldHave": [
+                        "ITIL",
+                        "OS",
+                        "Drift"
+                    ]
+                }
             }
         ]
     }

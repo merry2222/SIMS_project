@@ -27,14 +27,17 @@ for description in descriptions:
     grades = grade(description[2], get_match(description[2]))  # Grades is a list of tuples (skill_id, score, skill_name)
     for employee in employee_data:
         score = []
-        miss = []
+        missed_should = []
+        missed_must = []
         employee_skills_set = set(employee['skills'])  # Convert employee skills to a set for faster lookup
         for graded_skill in grades:
             if graded_skill[0] in employee_skills_set:
                 score.append(graded_skill[1])
             else:                                   # If the skill is not in the employee's skills, add it to the missed skills list
-                if int(graded_skill[1]) >=2:        # Only add missed skills that are should have or must have
-                    miss.append(graded_skill[2])
+                if int(graded_skill[1]) == 2:        # Only add missed skills that are should have or must have
+                    missed_should.append(graded_skill[2])
+                elif int(graded_skill[1]) == 3:
+                    missed_must.append(graded_skill[2])
 
         # Create or update user entry
         if employee['id'] not in user_data:
@@ -49,7 +52,10 @@ for description in descriptions:
             "Link": description[1],
             "Joblist": description[0],
             "SkillMatch": calculate_score(score, grades),
-            "MissedSkills": miss
+            "MissedSkills":{
+                "MustHave": missed_must,
+                "ShouldHave": missed_should
+            }
         })
 
 # Convert the dictionary to a list for JSON serialization
