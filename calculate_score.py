@@ -1,5 +1,5 @@
 def calculate_score(employee_scores, all_scores):
-    base = 0 # Using Axel calculation method change the value on base to 1 and vice versa if are using Johannes method
+    base = 1 # Needs to be base 1 to avoid division by 0 in case of empty requirements
     must  = base
     should = base
     merit = base
