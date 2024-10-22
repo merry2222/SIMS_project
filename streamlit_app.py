@@ -37,9 +37,9 @@ def app():
     matches = sorted(matches, key=lambda x: x["SkillMatch"], reverse=(selected_sorting == "⬆️ Highest Match Score"))
 
     # Main section - Titles
-    st.markdown("<h1 style='text-align: center; font-size: 30px;'>🎯 Smart Resume Matching Tool</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; font-size: 30px;'> Smart Resume Matching Tool</h1>", unsafe_allow_html=True)
     st.markdown(f"<h3 style='text-align: center; font-size: 24px;'>Consultant: {selected_user['UserName']} (ID: {selected_user['UserID']})</h3>", unsafe_allow_html=True)
-    st.write(f"🌐 Showing results for broker: {selected_broker}")
+    st.write(f" Showing results for broker: {selected_broker}")
 
     # Display a stylish table header
     st.markdown("""
@@ -85,8 +85,8 @@ def app():
 
         # Display the data in a row using markdown with inline styles for columns
         col1, col2, col3 = st.columns([4, 4, 5])
-        col1.markdown(f"<div style='font-size:20px;'>📋 {job_role}</div>", unsafe_allow_html=True)
-        col2.markdown(f"<div style='font-size:20px;'>📈 {match_score}</div>", unsafe_allow_html=True)
+        col1.markdown(f"<div style='font-size:20px;'> {job_role}</div>", unsafe_allow_html=True)
+        col2.markdown(f"<div style='font-size:20px;'> {match_score}</div>", unsafe_allow_html=True)
         col3.markdown(f"<div style='font-size:20px;'>🔗 <a href='{job_link}'>View Job</a></div>", unsafe_allow_html=True)
 
         # Manage state for MustHave and ShouldHave buttons
