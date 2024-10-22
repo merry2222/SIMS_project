@@ -98,7 +98,7 @@ def app():
         # Display missing skills with expander
         with st.expander("🚫 Missing Skills", expanded=False):
             # MustHave Skills
-            if st.button(f"Show MustHave Skills", key=f"MustHaveButton_{job_role}"):
+            if st.button(f"Show Must Have Skills", key=f"MustHaveButton_{job_role}"):
                 st.session_state[f"musthave_shown_{job_role}"] = not st.session_state[f"musthave_shown_{job_role}"]
 
             if st.session_state[f"musthave_shown_{job_role}"]:
@@ -108,7 +108,7 @@ def app():
                 st.markdown('</div>', unsafe_allow_html=True)
 
             # ShouldHave Skills
-            if st.button(f"Show ShouldHave Skills", key=f"ShouldHaveButton_{job_role}"):
+            if st.button(f"Show Should Have Skills", key=f"ShouldHaveButton_{job_role}"):
                 st.session_state[f"shouldhave_shown_{job_role}"] = not st.session_state[f"shouldhave_shown_{job_role}"]
 
             if st.session_state[f"shouldhave_shown_{job_role}"]:
