@@ -7,6 +7,10 @@ def load_data():
         data = json.load(file)
     return data
 
+# Helper function to convert percentage string to numeric value
+def get_numeric_score(score_str):
+    return float(score_str.replace('%', ''))
+
 # Create the Streamlit app layout
 def app():
     st.sidebar.title("🎯 Smart Resume Matching")
@@ -32,9 +36,12 @@ def app():
     # Retrieve selected user's data
     selected_user = next(user for user in data if user['UserID'] == selected_user_id)
 
-    # Filter and sort matches
+    # Filter and sort matches based on numeric match score
     matches = selected_user["Matches"]
-    matches = sorted(matches, key=lambda x: x["SkillMatch"], reverse=(selected_sorting == "⬆️ Highest Match Score"))
+    if selected_sorting == "⬆️ Highest Match Score":
+        matches = sorted(matches, key=lambda x: get_numeric_score(x["SkillMatch"]), reverse=True)
+    else:
+        matches = sorted(matches, key=lambda x: get_numeric_score(x["SkillMatch"]))
 
     # Main section - Titles
     st.markdown("<h1 style='text-align: center; font-size: 30px;'> Smart Resume Matching Tool</h1>", unsafe_allow_html=True)
