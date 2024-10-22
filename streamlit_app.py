@@ -7,6 +7,10 @@ def load_data():
         data = json.load(file)
     return data
 
+# Helper function to convert percentage string to numeric value
+def get_numeric_score(score_str):
+    return float(score_str.replace('%', ''))
+
 # Create the Streamlit app layout
 def app():
     st.sidebar.title("🎯 Smart Resume Matching")
@@ -32,14 +36,17 @@ def app():
     # Retrieve selected user's data
     selected_user = next(user for user in data if user['UserID'] == selected_user_id)
 
-    # Filter and sort matches
+    # Filter and sort matches based on numeric match score
     matches = selected_user["Matches"]
-    matches = sorted(matches, key=lambda x: x["SkillMatch"], reverse=(selected_sorting == "⬆️ Highest Match Score"))
+    if selected_sorting == "⬆️ Highest Match Score":
+        matches = sorted(matches, key=lambda x: get_numeric_score(x["SkillMatch"]), reverse=True)
+    else:
+        matches = sorted(matches, key=lambda x: get_numeric_score(x["SkillMatch"]))
 
     # Main section - Titles
-    st.markdown("<h1 style='text-align: center; font-size: 30px;'>🎯 Smart Resume Matching Tool</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; font-size: 30px;'> Smart Resume Matching Tool</h1>", unsafe_allow_html=True)
     st.markdown(f"<h3 style='text-align: center; font-size: 24px;'>Consultant: {selected_user['UserName']} (ID: {selected_user['UserID']})</h3>", unsafe_allow_html=True)
-    st.write(f"🌐 Showing results for broker: {selected_broker}")
+    st.write(f" Showing results for broker: {selected_broker}")
 
     # Display a stylish table header
     st.markdown("""
@@ -85,8 +92,8 @@ def app():
 
         # Display the data in a row using markdown with inline styles for columns
         col1, col2, col3 = st.columns([4, 4, 5])
-        col1.markdown(f"<div style='font-size:20px;'>📋 {job_role}</div>", unsafe_allow_html=True)
-        col2.markdown(f"<div style='font-size:20px;'>📈 {match_score}</div>", unsafe_allow_html=True)
+        col1.markdown(f"<div style='font-size:20px;'> {job_role}</div>", unsafe_allow_html=True)
+        col2.markdown(f"<div style='font-size:20px;'> {match_score}</div>", unsafe_allow_html=True)
         col3.markdown(f"<div style='font-size:20px;'>🔗 <a href='{job_link}'>View Job</a></div>", unsafe_allow_html=True)
 
         # Manage state for MustHave and ShouldHave buttons
@@ -98,7 +105,7 @@ def app():
         # Display missing skills with expander
         with st.expander("🚫 Missing Skills", expanded=False):
             # MustHave Skills
-            if st.button(f"Show MustHave Skills", key=f"MustHaveButton_{job_role}"):
+            if st.button(f"Show Must Have Skills", key=f"MustHaveButton_{job_role}"):
                 st.session_state[f"musthave_shown_{job_role}"] = not st.session_state[f"musthave_shown_{job_role}"]
 
             if st.session_state[f"musthave_shown_{job_role}"]:
@@ -108,7 +115,7 @@ def app():
                 st.markdown('</div>', unsafe_allow_html=True)
 
             # ShouldHave Skills
-            if st.button(f"Show ShouldHave Skills", key=f"ShouldHaveButton_{job_role}"):
+            if st.button(f"Show Should Have Skills", key=f"ShouldHaveButton_{job_role}"):
                 st.session_state[f"shouldhave_shown_{job_role}"] = not st.session_state[f"shouldhave_shown_{job_role}"]
 
             if st.session_state[f"shouldhave_shown_{job_role}"]:
