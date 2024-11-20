@@ -4,218 +4,263 @@
     "userId": 5733,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "3.89%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
+        "roles": [
+          "Licensadministratör"
+        ],
+        "skillMatch": "4.40%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "5.77%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "4.77%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "2.47%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "13.43%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
-        ],
-        "skillMatch": "5.96%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
-        "roles": [
-          "Fullstack-utvecklare"
-        ],
-        "skillMatch": "7.33%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
+          "Tekniker"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Redovisning"
+          "Kravanalytiker"
         ],
-        "skillMatch": "0.00%"
+        "skillMatch": "8.85%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "8.19%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "2.54%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "4.98%"
+        "skillMatch": "3.44%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "1.75%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "3.78%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
+        ],
+        "skillMatch": "6.02%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
+        "roles": [
+          "Informationssäkerhetsspecialist"
+        ],
+        "skillMatch": "6.94%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
+        "roles": [
+          "Data Engineer"
+        ],
+        "skillMatch": "6.84%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
+        "roles": [
+          "Teknisk projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "AI/ML"
+          "Systemförvaltare"
         ],
-        "skillMatch": "2.47%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-        "roles": [
-          "Engineer"
-        ],
-        "skillMatch": "6.75%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "3.10%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
         "roles": [
-          "Business Analyst"
+          "Qlik-utvecklare"
         ],
-        "skillMatch": "6.18%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
         "roles": [
-          "Backendutvecklare"
+          "E-commerce Operations"
         ],
-        "skillMatch": "12.04%"
+        "skillMatch": "1.79%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "9.35%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
           "Project Manager"
         ],
-        "skillMatch": "7.52%"
+        "skillMatch": "6.16%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
         "roles": [
-          "Paketerare"
+          "System Engineer"
         ],
-        "skillMatch": "4.21%"
+        "skillMatch": "2.27%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "10.87%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
         "roles": [
-          "Arkitekt"
+          "Utvecklare"
         ],
-        "skillMatch": "4.64%"
+        "skillMatch": "39.58%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
         "roles": [
-          "Mechanical Engineer"
+          "Project Manager"
         ],
-        "skillMatch": "1.55%"
+        "skillMatch": "15.01%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
         "roles": [
-          "Arkivkonsult"
+          "Apputvecklare"
         ],
-        "skillMatch": "0.00%"
+        "skillMatch": "5.49%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
         "roles": [
-          "IT-arkitekt"
-        ],
-        "skillMatch": "7.02%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
-        "roles": [
-          "Technical Specialist",
-          "Tekniker"
-        ],
-        "skillMatch": "3.84%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
-        "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Handledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Projektledare"
         ],
-        "skillMatch": "3.36%"
+        "skillMatch": "4.25%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "13.94%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "2.98%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "0.00%"
       }
     ]
   },
@@ -224,218 +269,263 @@
     "userId": 110105,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "29.96%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
+        "roles": [
+          "Licensadministratör"
+        ],
+        "skillMatch": "16.24%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "19.10%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "7.69%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "13.43%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "4.82%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
-        "skillMatch": "14.75%"
+        "skillMatch": "5.47%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
+          "Tekniker"
         ],
-        "skillMatch": "7.20%"
+        "skillMatch": "5.91%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Fullstack-utvecklare"
+          "Kravanalytiker"
         ],
-        "skillMatch": "20.53%"
+        "skillMatch": "8.85%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
-        ],
-        "skillMatch": "9.59%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
-        "roles": [
-          "Redovisning"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "2.83%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "5.55%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "14.51%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "4.98%"
+        "skillMatch": "2.41%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "18.50%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "17.92%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
-        "skillMatch": "4.27%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
+        ],
+        "skillMatch": "14.36%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
+        "roles": [
+          "Informationssäkerhetsspecialist"
+        ],
+        "skillMatch": "25.72%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
+        "roles": [
+          "Data Engineer"
+        ],
+        "skillMatch": "25.78%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
+        "roles": [
+          "Teknisk projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "AI/ML"
+          "Systemförvaltare"
         ],
-        "skillMatch": "10.61%"
+        "skillMatch": "25.92%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-        "roles": [
-          "Engineer"
-        ],
-        "skillMatch": "20.03%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "7.82%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
         "roles": [
-          "Business Analyst"
+          "Qlik-utvecklare"
         ],
-        "skillMatch": "13.04%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
         "roles": [
-          "Backendutvecklare"
+          "E-commerce Operations"
         ],
-        "skillMatch": "14.89%"
+        "skillMatch": "7.97%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "3.81%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
           "Project Manager"
         ],
-        "skillMatch": "15.15%"
+        "skillMatch": "7.64%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
         "roles": [
-          "Paketerare"
+          "System Engineer"
         ],
-        "skillMatch": "8.64%"
+        "skillMatch": "13.73%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "29.90%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
         "roles": [
-          "Mechanical Engineer"
+          "Utvecklare"
         ],
-        "skillMatch": "10.19%"
+        "skillMatch": "39.58%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
         "roles": [
-          "Arkivkonsult"
+          "Project Manager"
         ],
-        "skillMatch": "6.83%"
+        "skillMatch": "14.53%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
         "roles": [
-          "IT-arkitekt"
+          "Apputvecklare"
         ],
-        "skillMatch": "39.33%"
+        "skillMatch": "18.77%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
         "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Handledare"
         ],
-        "skillMatch": "11.14%"
+        "skillMatch": "7.30%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Projektledare"
         ],
-        "skillMatch": "3.03%"
+        "skillMatch": "8.97%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Handledare"
         ],
-        "skillMatch": "25.38%"
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "18.77%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "42.76%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "17.91%"
       }
     ]
   },
@@ -444,218 +534,263 @@
     "userId": 27999,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "56.42%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "55.68%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
+        "roles": [
+          "Licensadministratör"
+        ],
+        "skillMatch": "43.48%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "50.17%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "34.67%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "60.39%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "50.85%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "41.79%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "45.31%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "51.19%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
-        "skillMatch": "50.22%"
+        "skillMatch": "27.02%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
+          "Tekniker"
         ],
-        "skillMatch": "38.40%"
+        "skillMatch": "58.03%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Fullstack-utvecklare"
+          "Kravanalytiker"
         ],
-        "skillMatch": "26.42%"
+        "skillMatch": "61.06%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
-        ],
-        "skillMatch": "38.36%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
-        "roles": [
-          "Redovisning"
-        ],
-        "skillMatch": "26.58%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "61.29%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "35.79%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "14.75%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "43.51%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "56.08%"
+        "skillMatch": "40.13%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "61.98%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "39.51%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "17.92%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
-        "skillMatch": "54.28%"
+        "skillMatch": "54.62%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
-        "skillMatch": "52.97%"
+        "skillMatch": "44.16%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
         ],
-        "skillMatch": "32.63%"
+        "skillMatch": "49.69%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
         "roles": [
-          "AI/ML"
-        ],
-        "skillMatch": "48.57%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-        "roles": [
-          "Engineer"
-        ],
-        "skillMatch": "51.25%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
-        "roles": [
-          "Business Analyst"
-        ],
-        "skillMatch": "69.54%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
-        "roles": [
-          "Backendutvecklare"
-        ],
-        "skillMatch": "42.45%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "61.98%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
-        "roles": [
-          "Paketerare"
-        ],
-        "skillMatch": "51.38%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "39.69%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
-        "roles": [
-          "Mechanical Engineer"
-        ],
-        "skillMatch": "45.16%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
-        "roles": [
-          "Arkivkonsult"
+          "Informationssäkerhetsspecialist"
         ],
         "skillMatch": "40.96%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
         "roles": [
-          "IT-arkitekt"
+          "Data Engineer"
         ],
-        "skillMatch": "39.33%"
+        "skillMatch": "62.98%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
         "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Teknisk projektledare"
         ],
-        "skillMatch": "29.96%"
+        "skillMatch": "53.08%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Systemförvaltare"
         ],
+        "skillMatch": "39.21%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "57.44%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
+        "roles": [
+          "Qlik-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
+        "roles": [
+          "E-commerce Operations"
+        ],
+        "skillMatch": "25.52%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "16.07%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
         "skillMatch": "45.79%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Project Manager"
         ],
-        "skillMatch": "46.48%"
+        "skillMatch": "49.08%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
+        "roles": [
+          "System Engineer"
+        ],
+        "skillMatch": "54.50%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "52.17%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
+        "roles": [
+          "Utvecklare"
+        ],
+        "skillMatch": "18.75%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "71.19%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
+        "roles": [
+          "Apputvecklare"
+        ],
+        "skillMatch": "29.75%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "30.40%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
+        "roles": [
+          "Projektledare"
+        ],
+        "skillMatch": "28.73%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "28.76%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "76.14%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "36.71%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "51.69%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "50.40%"
       }
     ]
   },
@@ -664,218 +799,263 @@
     "userId": 10943,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
         "roles": [
-          "BI-utvecklare"
+          "Licensadministratör"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "2.47%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
+          "Tekniker"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Fullstack-utvecklare"
+          "Kravanalytiker"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
-        "roles": [
-          "Redovisning"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "2.54%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "2.29%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "1.97%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
         "roles": [
-          "AI/ML"
+          "Informationssäkerhetsspecialist"
         ],
-        "skillMatch": "0.80%"
+        "skillMatch": "12.50%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
         "roles": [
-          "Engineer"
+          "Data Engineer"
         ],
-        "skillMatch": "1.60%"
+        "skillMatch": "1.01%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
         "roles": [
-          "Business Analyst"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
-        "roles": [
-          "Backendutvecklare"
+          "Teknisk projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
+        "roles": [
+          "Systemförvaltare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
+        "roles": [
+          "Qlik-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
+        "roles": [
+          "E-commerce Operations"
+        ],
+        "skillMatch": "1.79%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
           "Project Manager"
         ],
-        "skillMatch": "2.67%"
+        "skillMatch": "1.12%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
         "roles": [
-          "Paketerare"
+          "System Engineer"
         ],
-        "skillMatch": "1.99%"
+        "skillMatch": "1.07%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
         "roles": [
-          "Arkitekt"
+          "Utvecklare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
         "roles": [
-          "Mechanical Engineer"
+          "Project Manager"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
         "roles": [
-          "Arkivkonsult"
+          "Apputvecklare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
         "roles": [
-          "IT-arkitekt"
+          "Handledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
         "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Handledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Project Manager"
         ],
-        "skillMatch": "1.51%"
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "0.00%"
       }
     ]
   },
@@ -884,218 +1064,263 @@
     "userId": 17318,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "29.96%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "19.34%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
+        "roles": [
+          "Licensadministratör"
+        ],
+        "skillMatch": "25.04%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "13.98%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "28.90%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "39.46%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "33.90%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "58.21%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "38.28%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "18.78%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
-        "skillMatch": "36.14%"
+        "skillMatch": "30.88%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
+          "Tekniker"
         ],
-        "skillMatch": "26.94%"
+        "skillMatch": "12.68%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Fullstack-utvecklare"
+          "Kravanalytiker"
         ],
-        "skillMatch": "42.88%"
+        "skillMatch": "26.55%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
-        ],
-        "skillMatch": "28.77%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
-        "roles": [
-          "Redovisning"
-        ],
-        "skillMatch": "25.39%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "31.56%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "5.55%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "26.72%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "28.24%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "9.96%"
+        "skillMatch": "16.17%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "48.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "4.20%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "17.92%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
-        "skillMatch": "20.94%"
+        "skillMatch": "22.69%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
-        "skillMatch": "9.41%"
+        "skillMatch": "4.13%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
         ],
-        "skillMatch": "13.32%"
+        "skillMatch": "37.28%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
         "roles": [
-          "AI/ML"
+          "Informationssäkerhetsspecialist"
         ],
-        "skillMatch": "36.97%"
+        "skillMatch": "47.90%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
         "roles": [
-          "Engineer"
+          "Data Engineer"
         ],
-        "skillMatch": "34.66%"
+        "skillMatch": "51.68%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
         "roles": [
-          "Business Analyst"
+          "Teknisk projektledare"
         ],
-        "skillMatch": "46.00%"
+        "skillMatch": "28.41%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "Backendutvecklare"
+          "Systemförvaltare"
         ],
-        "skillMatch": "33.27%"
+        "skillMatch": "32.57%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "37.35%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
+        "roles": [
+          "Qlik-utvecklare"
+        ],
+        "skillMatch": "25.64%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
+        "roles": [
+          "E-commerce Operations"
+        ],
+        "skillMatch": "27.71%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "12.27%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "9.35%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
           "Project Manager"
         ],
-        "skillMatch": "41.78%"
+        "skillMatch": "31.16%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
         "roles": [
-          "Paketerare"
+          "System Engineer"
         ],
-        "skillMatch": "39.20%"
+        "skillMatch": "49.72%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "44.33%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "10.87%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
         "roles": [
-          "Mechanical Engineer"
+          "Utvecklare"
         ],
-        "skillMatch": "45.38%"
+        "skillMatch": "81.25%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
         "roles": [
-          "Arkivkonsult"
+          "Project Manager"
         ],
-        "skillMatch": "14.86%"
+        "skillMatch": "47.70%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
         "roles": [
-          "IT-arkitekt"
+          "Apputvecklare"
         ],
-        "skillMatch": "25.28%"
+        "skillMatch": "28.59%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
         "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Handledare"
         ],
-        "skillMatch": "23.04%"
+        "skillMatch": "18.46%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Projektledare"
         ],
-        "skillMatch": "16.16%"
+        "skillMatch": "23.13%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Handledare"
         ],
-        "skillMatch": "48.00%"
+        "skillMatch": "12.84%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "55.50%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "12.66%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "54.37%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "35.81%"
       }
     ]
   },
@@ -1104,218 +1329,263 @@
     "userId": 84666,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "26.07%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
+        "roles": [
+          "Licensadministratör"
+        ],
+        "skillMatch": "3.58%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "16.58%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "2.47%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "13.43%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "4.82%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
-        "skillMatch": "11.06%"
+        "skillMatch": "3.22%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
-        ],
-        "skillMatch": "3.91%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
-        "roles": [
-          "Fullstack-utvecklare"
-        ],
-        "skillMatch": "13.20%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
-        ],
-        "skillMatch": "9.59%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
-        "roles": [
-          "Redovisning"
+          "Tekniker"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Project Manager"
+          "Kravanalytiker"
         ],
-        "skillMatch": "2.83%"
+        "skillMatch": "8.85%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "5.55%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "5.09%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "4.98%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "6.34%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "17.92%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
-        "skillMatch": "4.27%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
+        ],
+        "skillMatch": "8.89%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
+        "roles": [
+          "Informationssäkerhetsspecialist"
+        ],
+        "skillMatch": "13.88%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
+        "roles": [
+          "Data Engineer"
+        ],
+        "skillMatch": "24.65%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
+        "roles": [
+          "Teknisk projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "AI/ML"
+          "Systemförvaltare"
         ],
-        "skillMatch": "8.84%"
+        "skillMatch": "6.65%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-        "roles": [
-          "Engineer"
-        ],
-        "skillMatch": "7.94%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "5.71%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
         "roles": [
-          "Business Analyst"
+          "Qlik-utvecklare"
         ],
-        "skillMatch": "13.04%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
         "roles": [
-          "Backendutvecklare"
+          "E-commerce Operations"
         ],
-        "skillMatch": "14.89%"
+        "skillMatch": "5.98%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "3.81%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
           "Project Manager"
         ],
-        "skillMatch": "9.50%"
+        "skillMatch": "3.18%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
         "roles": [
-          "Paketerare"
+          "System Engineer"
         ],
-        "skillMatch": "6.42%"
+        "skillMatch": "7.76%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
         "roles": [
-          "Arkitekt"
+          "Utvecklare"
         ],
-        "skillMatch": "29.90%"
+        "skillMatch": "39.58%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
         "roles": [
-          "Mechanical Engineer"
+          "Project Manager"
         ],
-        "skillMatch": "1.73%"
+        "skillMatch": "12.11%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
         "roles": [
-          "Arkivkonsult"
+          "Apputvecklare"
+        ],
+        "skillMatch": "8.09%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
+        "roles": [
+          "Handledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
         "roles": [
-          "IT-arkitekt"
+          "Projektledare"
         ],
-        "skillMatch": "13.34%"
+        "skillMatch": "8.97%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
         "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Handledare"
         ],
-        "skillMatch": "7.30%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Project Manager"
         ],
-        "skillMatch": "3.03%"
+        "skillMatch": "16.09%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Produktägare"
         ],
-        "skillMatch": "23.70%"
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "34.43%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "0.00%"
       }
     ]
   },
@@ -1324,218 +1594,263 @@
     "userId": 34315,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "29.18%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "4.46%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
+        "roles": [
+          "Licensadministratör"
+        ],
+        "skillMatch": "3.96%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "15.50%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "30.91%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "13.46%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "33.90%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "43.28%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "30.47%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "4.82%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
-        "skillMatch": "14.75%"
+        "skillMatch": "9.01%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
-        ],
-        "skillMatch": "12.54%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
-        "roles": [
-          "Fullstack-utvecklare"
-        ],
-        "skillMatch": "14.29%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
-        ],
-        "skillMatch": "9.59%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
-        "roles": [
-          "Redovisning"
-        ],
-        "skillMatch": "9.48%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "2.83%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "5.55%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "16.31%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "27.48%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
-        "roles": [
-          "Projektledare"
-        ],
-        "skillMatch": "4.98%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "26.37%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "3.78%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "46.23%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
-        "roles": [
-          "Testledare"
-        ],
-        "skillMatch": "20.52%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
-        "roles": [
-          "Governance",
-          "Säkerhet"
+          "Tekniker"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Salesforce Engineer"
+          "Kravanalytiker"
         ],
-        "skillMatch": "11.99%"
+        "skillMatch": "8.85%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
-          "AI/ML"
+          "Projektledare"
         ],
-        "skillMatch": "15.94%"
+        "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
-          "Engineer"
+          "Testledare"
         ],
-        "skillMatch": "19.78%"
+        "skillMatch": "22.69%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Business Analyst"
-        ],
-        "skillMatch": "39.13%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
-        "roles": [
-          "Backendutvecklare"
-        ],
-        "skillMatch": "17.74%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "13.56%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
-        "roles": [
-          "Paketerare"
-        ],
-        "skillMatch": "23.25%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "29.90%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
-        "roles": [
-          "Mechanical Engineer"
-        ],
-        "skillMatch": "13.82%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
-        "roles": [
-          "Arkivkonsult"
-        ],
-        "skillMatch": "7.23%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-        "roles": [
-          "IT-arkitekt"
-        ],
-        "skillMatch": "13.34%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
-        "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Kravanalytiker",
+          "Kravställare"
         ],
         "skillMatch": "11.14%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "IT Security"
         ],
-        "skillMatch": "12.12%"
+        "skillMatch": "14.36%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
         "roles": [
-          "Cloud Engineer",
+          "Informationssäkerhetsspecialist"
+        ],
+        "skillMatch": "27.77%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
+        "roles": [
           "Data Engineer"
         ],
-        "skillMatch": "28.74%"
+        "skillMatch": "27.44%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
+        "roles": [
+          "Teknisk projektledare"
+        ],
+        "skillMatch": "10.47%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
+        "roles": [
+          "Systemförvaltare"
+        ],
+        "skillMatch": "24.59%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "8.67%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
+        "roles": [
+          "Qlik-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
+        "roles": [
+          "E-commerce Operations"
+        ],
+        "skillMatch": "14.97%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "7.61%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "5.66%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
+        "roles": [
+          "System Engineer"
+        ],
+        "skillMatch": "18.51%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
+        "roles": [
+          "Utvecklare"
+        ],
+        "skillMatch": "81.25%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "31.23%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
+        "roles": [
+          "Apputvecklare"
+        ],
+        "skillMatch": "19.35%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
+        "roles": [
+          "Projektledare"
+        ],
+        "skillMatch": "13.21%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "37.27%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "40.38%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "0.00%"
       }
     ]
   },
@@ -1544,218 +1859,263 @@
     "userId": 95337,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
         "roles": [
-          "BI-utvecklare"
+          "Licensadministratör"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "4.77%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "2.47%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "14.93%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "7.81%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
-        "skillMatch": "0.00%"
+        "skillMatch": "2.25%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
-        ],
-        "skillMatch": "1.85%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
-        "roles": [
-          "Fullstack-utvecklare"
-        ],
-        "skillMatch": "9.90%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
+          "Tekniker"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Redovisning"
+          "Kravanalytiker"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "2.54%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "2.29%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "0.00%"
+        "skillMatch": "2.41%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "14.42%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "0.00%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
+        ],
+        "skillMatch": "2.73%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
+        "roles": [
+          "Informationssäkerhetsspecialist"
+        ],
+        "skillMatch": "12.50%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
+        "roles": [
+          "Data Engineer"
+        ],
+        "skillMatch": "4.40%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
+        "roles": [
+          "Teknisk projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "AI/ML"
-        ],
-        "skillMatch": "4.01%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
-        "roles": [
-          "Engineer"
-        ],
-        "skillMatch": "3.38%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
-        "roles": [
-          "Business Analyst"
+          "Systemförvaltare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "2.11%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
         "roles": [
-          "Backendutvecklare"
+          "Qlik-utvecklare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
+        "roles": [
+          "E-commerce Operations"
+        ],
+        "skillMatch": "3.79%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
           "Project Manager"
         ],
-        "skillMatch": "10.50%"
+        "skillMatch": "5.04%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
         "roles": [
-          "Paketerare"
+          "System Engineer"
         ],
-        "skillMatch": "1.99%"
+        "skillMatch": "3.46%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
         "roles": [
-          "Arkitekt"
+          "Utvecklare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
         "roles": [
-          "Mechanical Engineer"
-        ],
-        "skillMatch": "15.37%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
-        "roles": [
-          "Arkivkonsult"
-        ],
-        "skillMatch": "2.81%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-        "roles": [
-          "IT-arkitekt"
-        ],
-        "skillMatch": "4.92%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
-        "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Project Manager"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Apputvecklare"
+        ],
+        "skillMatch": "7.80%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "3.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
+        "roles": [
+          "Projektledare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Handledare"
         ],
-        "skillMatch": "6.55%"
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "0.00%"
       }
     ]
   },
@@ -1764,218 +2124,263 @@
     "userId": 176767,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "7.00%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "9.92%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
         "roles": [
-          "IT-arkitekt"
+          "Licensadministratör"
         ],
-        "skillMatch": "7.38%"
+        "skillMatch": "16.80%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
         "roles": [
-          "System Architect"
+          "Incident &amp; Problem Manager"
         ],
-        "skillMatch": "12.78%"
+        "skillMatch": "12.15%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
         "roles": [
-          "Fullstack-utvecklare"
+          "Frontend-utvecklare"
         ],
-        "skillMatch": "6.96%"
+        "skillMatch": "7.04%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
         "roles": [
-          "Systemspecialist"
+          "Project/Program Administrator"
         ],
-        "skillMatch": "9.59%"
+        "skillMatch": "18.95%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
         "roles": [
-          "Redovisning"
-        ],
-        "skillMatch": "13.83%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "11.02%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "17.89%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "14.53%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
+          ".NET-utvecklare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "13.43%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "22.66%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
+        "roles": [
+          "IT-arkitekt"
+        ],
+        "skillMatch": "6.43%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
+        "roles": [
+          "Tekniker"
+        ],
+        "skillMatch": "6.77%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
+        "roles": [
+          "Kravanalytiker"
+        ],
+        "skillMatch": "17.70%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "10.51%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "17.26%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "4.20%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
-        "skillMatch": "16.67%"
+        "skillMatch": "22.69%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
-        "skillMatch": "18.81%"
+        "skillMatch": "12.38%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
         ],
-        "skillMatch": "6.66%"
+        "skillMatch": "11.71%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
         "roles": [
-          "AI/ML"
+          "Informationssäkerhetsspecialist"
         ],
-        "skillMatch": "10.43%"
+        "skillMatch": "33.32%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
         "roles": [
-          "Engineer"
+          "Data Engineer"
         ],
-        "skillMatch": "13.44%"
+        "skillMatch": "8.71%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
         "roles": [
-          "Business Analyst"
+          "Teknisk projektledare"
         ],
-        "skillMatch": "13.04%"
+        "skillMatch": "5.65%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "Backendutvecklare"
-        ],
-        "skillMatch": "18.06%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "5.64%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
-        "roles": [
-          "Paketerare"
-        ],
-        "skillMatch": "22.37%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "4.64%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
-        "roles": [
-          "Mechanical Engineer"
-        ],
-        "skillMatch": "11.92%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
-        "roles": [
-          "Arkivkonsult"
-        ],
-        "skillMatch": "4.02%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
-        "roles": [
-          "IT-arkitekt"
-        ],
-        "skillMatch": "6.32%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
-        "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Systemförvaltare"
         ],
         "skillMatch": "0.00%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
-        "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
-        ],
-        "skillMatch": "6.40%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "11.98%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Qlik-utvecklare"
         ],
-        "skillMatch": "7.73%"
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
+        "roles": [
+          "E-commerce Operations"
+        ],
+        "skillMatch": "7.19%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "4.23%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "9.35%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "12.29%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
+        "roles": [
+          "System Engineer"
+        ],
+        "skillMatch": "22.73%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "10.87%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
+        "roles": [
+          "Utvecklare"
+        ],
+        "skillMatch": "18.75%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "7.26%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
+        "roles": [
+          "Apputvecklare"
+        ],
+        "skillMatch": "5.20%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "7.35%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
+        "roles": [
+          "Projektledare"
+        ],
+        "skillMatch": "18.41%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
+        "roles": [
+          "Handledare"
+        ],
+        "skillMatch": "6.42%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "5.36%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "12.66%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "2.98%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "17.91%"
       }
     ]
   },
@@ -1984,218 +2389,263 @@
     "userId": 173963,
     "matches": [
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75905-powerbi-utvecklare/",
-        "roles": [
-          "BI-utvecklare"
-        ],
-        "skillMatch": "48.25%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/82247-senior-projektledare-region-skane-avrop-1278/",
+        "roles": [],
+        "skillMatch": "50.72%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75874-it-architect/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82220-licenshanteringsprocess-microsoft-365/",
+        "roles": [
+          "Licensadministratör"
+        ],
+        "skillMatch": "54.99%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82229-senior-incident-problem-manager-region-skane-skanetrafiken-avrop-1276/",
+        "roles": [
+          "Incident &amp; Problem Manager"
+        ],
+        "skillMatch": "55.03%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82221-senior-frontend-react-utvecklare-region-skane-avrop-1279/",
+        "roles": [
+          "Frontend-utvecklare"
+        ],
+        "skillMatch": "36.18%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82216-project-administrator/",
+        "roles": [
+          "Project/Program Administrator"
+        ],
+        "skillMatch": "63.41%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82204-senior-net-utvecklare-order-faktura-gcp/",
+        "roles": [
+          ".NET-utvecklare"
+        ],
+        "skillMatch": "33.90%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82167-junior-systemutvecklare-php/",
+        "roles": [
+          "Systemutvecklare"
+        ],
+        "skillMatch": "41.79%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82140-teknisk-specialist-4/",
+        "roles": [
+          "Teknisk specialist"
+        ],
+        "skillMatch": "38.28%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82130-teknisk-scrum-master/",
+        "roles": [
+          "Scrum Master"
+        ],
+        "skillMatch": "62.12%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/82105-it-arkitekt-7/",
         "roles": [
           "IT-arkitekt"
         ],
-        "skillMatch": "64.23%"
+        "skillMatch": "37.32%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75871-systemarkitekt-inom-ai-bi/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82076-it-tekniker-8/",
         "roles": [
-          "System Architect"
+          "Tekniker"
         ],
-        "skillMatch": "37.81%"
+        "skillMatch": "51.26%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75841-fullstack-utvecklare-10/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82074-kravanalytiker-23/",
         "roles": [
-          "Fullstack-utvecklare"
+          "Kravanalytiker"
         ],
-        "skillMatch": "29.35%"
+        "skillMatch": "44.25%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75835-systemspecialist-puls-kptx/",
-        "roles": [
-          "Systemspecialist"
-        ],
-        "skillMatch": "19.18%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75832-redovisningsspecialist-med-analytisk-styrka-samt-erfarenhet-av-processledning/",
-        "roles": [
-          "Redovisning"
-        ],
-        "skillMatch": "37.10%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75823-project-manager-within-data-migration/",
-        "roles": [
-          "Project Manager"
-        ],
-        "skillMatch": "70.27%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75814-produktspecialist-investeringsradgivning/",
-        "roles": [
-          "Produktspecialist"
-        ],
-        "skillMatch": "30.23%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75813-integrationsarkitekt-7/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "26.70%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75810-supporttekniker-5/",
-        "roles": [
-          "Supporttekniker"
-        ],
-        "skillMatch": "51.15%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75803-projektledare-58/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/82031-teknisk-projektledare-21/",
         "roles": [
           "Projektledare"
         ],
-        "skillMatch": "67.15%"
+        "skillMatch": "41.16%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75769-application-engineer-2/",
-        "roles": [
-          "Application Engineer"
-        ],
-        "skillMatch": "76.62%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75766-kvalitetsutvecklare-omvardnadsforvaltningen-solna-stad-2/",
-        "roles": [
-          "Organisationskonsult"
-        ],
-        "skillMatch": "43.72%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75755-data-arkitekt-2/",
-        "roles": [
-          "Data-arkitekt"
-        ],
-        "skillMatch": "17.92%"
-      },
-      {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75746-testledare-22/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81975-testledare-26/",
         "roles": [
           "Testledare"
         ],
-        "skillMatch": "66.68%"
+        "skillMatch": "56.89%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75731-it-risk-och-internkontroll-koordinator/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81944-kravstallare-kravanalytiker/",
         "roles": [
-          "Governance",
-          "Säkerhet"
+          "Kravanalytiker",
+          "Kravställare"
         ],
-        "skillMatch": "46.09%"
+        "skillMatch": "47.46%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75680-copado-specialist/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81916-it-security-manager/",
         "roles": [
-          "Salesforce Engineer"
+          "IT Security"
         ],
-        "skillMatch": "38.62%"
+        "skillMatch": "68.08%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75677-ai-architect-2/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81866-informationssakerhets-expert/",
         "roles": [
-          "AI/ML"
+          "Informationssäkerhetsspecialist"
         ],
-        "skillMatch": "63.57%"
+        "skillMatch": "93.06%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75667-4-x-devops-engineers/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81781-data-engineer-informatica-3/",
         "roles": [
-          "Engineer"
+          "Data Engineer"
         ],
-        "skillMatch": "47.34%"
+        "skillMatch": "61.75%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75658-business-analyst-36/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81756-teknisk-projektledare-20/",
         "roles": [
-          "Business Analyst"
+          "Teknisk projektledare"
         ],
-        "skillMatch": "69.54%"
+        "skillMatch": "58.46%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75643-backend-utvecklare-4/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81747-systemforvaltare-inom-dynamics/",
         "roles": [
-          "Backendutvecklare"
+          "Systemförvaltare"
         ],
-        "skillMatch": "42.45%"
+        "skillMatch": "57.16%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75577-project-manager-14/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81726-engineering-manager/",
+        "roles": [],
+        "skillMatch": "65.90%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81722-qlik-utvecklare-2/",
+        "roles": [
+          "Qlik-utvecklare"
+        ],
+        "skillMatch": "0.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81698-two-hosting-and-shopware-specialists/",
+        "roles": [
+          "E-commerce Operations"
+        ],
+        "skillMatch": "44.25%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81680-utbildare-piwik-pro/",
+        "roles": [
+          "Utbildare"
+        ],
+        "skillMatch": "24.11%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81662-handledare-for-socialsekreterare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "71.96%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/81653-project-manager-mes/",
         "roles": [
           "Project Manager"
         ],
-        "skillMatch": "67.92%"
+        "skillMatch": "65.60%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75576-application-management-5/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81629-manufacturing-it-oy-system-engineer/",
         "roles": [
-          "Paketerare"
+          "System Engineer"
         ],
-        "skillMatch": "47.62%"
+        "skillMatch": "69.31%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75509-arkitekt-5/",
-        "roles": [
-          "Arkitekt"
-        ],
-        "skillMatch": "45.36%"
+        "jobLink": "https://upgraded.se/konsultuppdrag/81563-handledare-for-ungdomsbehandlare-inom-socialtjanst/",
+        "roles": [],
+        "skillMatch": "42.39%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75506-mechanical-engineer-3/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81507-embedded-c-kernel-utvecklare/",
         "roles": [
-          "Mechanical Engineer"
+          "Utvecklare"
         ],
-        "skillMatch": "62.65%"
+        "skillMatch": "39.58%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75496-samordning-av-framtagande-av-informationshanteringsplaner-for-sektorn-for-valfard-och-omsorg/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81446-plm-project-manager/",
         "roles": [
-          "Arkivkonsult"
+          "Project Manager"
         ],
-        "skillMatch": "30.52%"
+        "skillMatch": "80.63%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75480-it-arkitekt-6/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81278-senior-apputvecklare-maui-region-skane-skanetrafiken-avrop-1236/",
         "roles": [
-          "IT-arkitekt"
+          "Apputvecklare"
         ],
-        "skillMatch": "21.07%"
+        "skillMatch": "33.22%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75409-windows-technician/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81213-handledare-inom-socialtjansten/",
         "roles": [
-          "Technical Specialist",
-          "Tekniker"
+          "Handledare"
         ],
-        "skillMatch": "21.51%"
+        "skillMatch": "46.35%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75401-krav-verksamhetanalytiker/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/81144-projektledare-64/",
         "roles": [
-          "Kravanalytiker",
-          "Verksamhetsanalytiker"
+          "Projektledare"
         ],
-        "skillMatch": "46.13%"
+        "skillMatch": "41.95%"
       },
       {
-        "jobLink": "https://upgraded.se/konsultuppdrag/75364-cloud-data-engineer/",
+        "jobLink": "https://upgraded.se/konsultuppdrag/80609-handledare-behandlingsassistenter-socionomer-med-inriktning-beroende-och-kriminalitet/",
         "roles": [
-          "Cloud Engineer",
-          "Data Engineer"
+          "Handledare"
         ],
-        "skillMatch": "60.43%"
+        "skillMatch": "58.93%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80376-project-manager-plm/",
+        "roles": [
+          "Project Manager"
+        ],
+        "skillMatch": "83.91%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80293-produktagare-5/",
+        "roles": [
+          "Produktägare"
+        ],
+        "skillMatch": "50.63%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80264-application-developer/",
+        "roles": [
+          "Application Developer"
+        ],
+        "skillMatch": "63.00%"
+      },
+      {
+        "jobLink": "https://upgraded.se/konsultuppdrag/80079-konfigurationsanalytiker/",
+        "roles": [
+          "Analytiker"
+        ],
+        "skillMatch": "50.40%"
       }
     ]
   }
