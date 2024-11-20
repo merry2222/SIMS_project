@@ -85,7 +85,7 @@ def app():
     st.markdown("---")
 
     # Display rows of data
-    for match in matches:
+    for idx, match in enumerate(matches):
         job_role = match["Joblist"]
         match_score = f"{match['SkillMatch']}"
         job_link = match["Link"]
@@ -96,29 +96,29 @@ def app():
         col2.markdown(f"<div style='font-size:20px;'> {match_score}</div>", unsafe_allow_html=True)
         col3.markdown(f"<div style='font-size:20px;'>🔗 <a href='{job_link}'>View Job</a></div>", unsafe_allow_html=True)
 
-        # Manage state for MustHave and ShouldHave buttons
-        if f"musthave_shown_{job_role}" not in st.session_state:
-            st.session_state[f"musthave_shown_{job_role}"] = False
-        if f"shouldhave_shown_{job_role}" not in st.session_state:
-            st.session_state[f"shouldhave_shown_{job_role}"] = False
+        # Manage state for MustHave and ShouldHave buttons using a unique key based on index
+        if f"musthave_shown_{job_role}_{idx}" not in st.session_state:
+            st.session_state[f"musthave_shown_{job_role}_{idx}"] = False
+        if f"shouldhave_shown_{job_role}_{idx}" not in st.session_state:
+            st.session_state[f"shouldhave_shown_{job_role}_{idx}"] = False
 
         # Display missing skills with expander
         with st.expander("🚫 Missing Skills", expanded=False):
             # MustHave Skills
-            if st.button(f"Show Must Have Skills", key=f"MustHaveButton_{job_role}"):
-                st.session_state[f"musthave_shown_{job_role}"] = not st.session_state[f"musthave_shown_{job_role}"]
+            if st.button(f"Show Must Have Skills", key=f"MustHaveButton_{job_role}_{idx}"):
+                st.session_state[f"musthave_shown_{job_role}_{idx}"] = not st.session_state[f"musthave_shown_{job_role}_{idx}"]
 
-            if st.session_state[f"musthave_shown_{job_role}"]:
+            if st.session_state[f"musthave_shown_{job_role}_{idx}"]:
                 st.markdown('<div class="skill-container">', unsafe_allow_html=True)
                 for skill in match["MissedSkills"].get("MustHave", []):
                     st.markdown(f"<span class='oval-skill'>{skill}</span>", unsafe_allow_html=True)
                 st.markdown('</div>', unsafe_allow_html=True)
 
             # ShouldHave Skills
-            if st.button(f"Show Should Have Skills", key=f"ShouldHaveButton_{job_role}"):
-                st.session_state[f"shouldhave_shown_{job_role}"] = not st.session_state[f"shouldhave_shown_{job_role}"]
+            if st.button(f"Show Should Have Skills", key=f"ShouldHaveButton_{job_role}_{idx}"):
+                st.session_state[f"shouldhave_shown_{job_role}_{idx}"] = not st.session_state[f"shouldhave_shown_{job_role}_{idx}"]
 
-            if st.session_state[f"shouldhave_shown_{job_role}"]:
+            if st.session_state[f"shouldhave_shown_{job_role}_{idx}"]:
                 st.markdown('<div class="skill-container">', unsafe_allow_html=True)
                 for skill in match["MissedSkills"].get("ShouldHave", []):
                     st.markdown(f"<span class='oval-skill'>{skill}</span>", unsafe_allow_html=True)
@@ -129,3 +129,4 @@ def app():
 # Run the app
 if __name__ == "__main__":
     app()
+
